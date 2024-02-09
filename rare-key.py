@@ -1,0 +1,29 @@
+# Python3 code to demonstrate working of 
+# Sort Dictionary key and values List
+# Using loop + dictionary comprehension
+
+# initializing dictionary
+"""test_dict is a dictionary that maps strings to lists of integers.
+
+It contains 3 key-value pairs:
+- 'gfg' maps to [7, 6, 3]  
+- 'is' maps to [2, 10, 3]
+- 'best' maps to [19, 4]
+"""
+test_dict = {'gfg': [7, 6, 3], 
+			'is': [2, 10, 3], 
+			'best': [19, 4]}
+
+# printing original dictionary
+print("The original dictionary is : " + str(test_dict))
+
+# Sort Dictionary key and values List
+# Using loop + dictionary comprehension
+res = dict()
+# Sorts the values for each key in the dictionary test_dict and assigns the 
+# sorted lists to the corresponding keys in the result dictionary res.
+for key in sorted(test_dict):
+    res[key] = sorted(test_dict[key])
+
+# printing result 
+print("The sorted dictionary : " + str(res)) 
