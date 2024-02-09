@@ -1,7 +1,6 @@
 // Java Program to Find the Biggest of 3 Numbers
 
-// Importing generic Classes/Files
-import java.io.*;
+
 
 class GFG {
 
