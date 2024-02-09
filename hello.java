@@ -21,6 +21,9 @@ class GFG {
         int a, b, c;
 
         // Variable holding the largest number
+        /**
+         * Variable to hold the largest number.
+         */
         int largest;
         a = 5;
         b = 10;
