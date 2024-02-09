@@ -1,3 +1,7 @@
+# TodoList class represents a list of Todo items.
+# Maintains a list of Todo instances and provides methods to 
+# add new items, mark items as completed by index, and 
+# string representation.
 import sys
 
 # Todo class to represent a todo item 
@@ -15,7 +19,11 @@ class Todo:
 
 # TodoList class to represent list of todo items
 class TodoList:
-  def __init__(self):
+    """Initializes a new TodoList instance.
+  
+  Creates an empty todos list to store todo items.
+  """
+def __init__(self):
     self.todos = []
   
   def add(self, name):
