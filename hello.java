@@ -29,6 +29,11 @@ class GFG {
         b = 10;
         c = 3;
         // Calling the above function in main
+        /**
+         * Calls the biggestOfThree function to find the largest of the
+         * three integer variables a, b, and c.
+         * The result is stored in the largest variable.
+         */
         largest = biggestOfThree(a, b, c);
 
         // Printing the largest number
