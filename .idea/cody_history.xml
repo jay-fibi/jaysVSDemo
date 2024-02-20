@@ -868,11 +868,1714 @@
           </messages>
           <updatedAt value="2024-02-20T00:37:24.133927" />
         </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <isEnabled value="false" />
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="6eb2584e-05c4-4e61-a348-6dead9874562" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjo5" />
+          <enhancedContext>
+            <enhancedContext>
+              <isEnabled value="false" />
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="7d2200ce-74c4-4d43-b852-90d7ffe626a6" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjo5" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="da526336-f436-40ad-af4c-f17afd926053" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="afaf0977-7e27-4477-8d22-b7d8ab37460d" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="a8583458-5390-4942-9587-2d2f6ed3ba01" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="dcba7df0-99d8-4445-b4e9-46262bd472d9" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="8a27a5e1-748f-4fbe-b1f9-aa361fd79c84" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="what does this code do?" />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value="This Java code snippet prints &quot;Hello World!&quot; to the console twice. The first print statement is a comment and is not executed, while the second print statement is executed and outputs &quot;Hello World!&quot; to the console." />
+              </message>
+            </list>
+          </messages>
+          <model value="ChatGPT 3.5 Turbo by OpenAI" />
+          <updatedAt value="2024-02-20T01:22:22.662737" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="88f02da0-0ec1-4bb4-acd8-1649c310c148" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="what does this code snippet do? " />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" This is an implementation of the bubble sort algorithm in Java. Here is a breakdown of what it does:&#10;&#10;1. It takes in an integer array `arr` that needs to be sorted.&#10;&#10;2. `n` stores the length of the array. &#10;&#10;3. There are two nested for loops:&#10;&#10;- The outer for loop goes from 0 to `n-1`. This repeats the inner loop n times.&#10;&#10;- The inner for loop goes from 0 to `n-i-1`. This gradually reduces the size of the unsorted portion of the array.&#10;&#10;4. Inside the inner loop, adjacent elements are compared using `if (arr[j] &gt; arr[j+1])`. If they are not in order, they are swapped.&#10;&#10;5. The swap is done by using a temporary variable `temp` to store one value, then swapping the values in the array.&#10;&#10;6. After each iteration of the outer loop, the largest remaining value has &quot;bubbled up&quot; to its correct position at the end. &#10;&#10;7. After n iterations, the array contains the sorted values.&#10;&#10;So in summary, it implements the bubble sort algorithm to sort the integer array in ascending order. The nested loops along with swapping of adjacent elements help move larger values to the end while preserving the order of the rest of the elements." />
+              </message>
+            </list>
+          </messages>
+          <model value="Claude 2.1 by Anthropic" />
+          <updatedAt value="2024-02-20T01:23:52.297328" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="a909a170-462b-4cef-b32a-8905713e3bf1" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="a6a673a6-9224-4174-bbf9-be15053213f7" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="8299f0be-6489-4292-851f-f50c1b41a5be" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="ee829e23-bfd9-49f8-9df9-2aeaec1b8824" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjo5" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="f685e711-bb15-4243-8b4e-c7aadb6109cd" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjo5" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="ef449637-6c14-4312-81ee-301ad8d49724" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjo5" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="eb0017ea-ac39-4be4-8436-54d5af1842ba" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjo5" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="26d787c1-7e53-4daf-a24b-817072c5abf5" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjo5" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="2cb8a0bd-83c4-49aa-9529-0d34595fec14" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="f9f52075-3b84-47c0-bb91-6f7a09691fdd" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="2cef4352-004e-4058-8e4c-d993702eab0f" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="d24d66c7-02da-4736-8792-c5a4b725ebc6" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="cfded26e-951a-4cf6-b68b-252219b9bcc1" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="a774a04a-873d-4330-8f66-265cf783c4e2" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="Explain what the selected code does in simple terms. Assume the audience is a beginner programmer who has just learned the language features and basic syntax. Focus on explaining: 1) The purpose of the code 2) What input(s) it takes 3) What output(s) it produces 4) How it achieves its purpose through the logic and algorithm. 5) Any important logic flows or data transformations happening. Use simple language a beginner could understand. Include enough detail to give a full picture of what the code aims to accomplish without getting too technical. Format the explanation in coherent paragraphs, using proper punctuation and grammar. Write the explanation assuming no prior context about the code is known. Do not make assumptions about variables or functions not shown in the shared code. Start the answer with the name of the code that is being explained." />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" The code is a function called sumArray that calculates the sum of numbers in an array.&#10;&#10;It takes one input parameter called numbers which is the array of numbers to sum. &#10;&#10;The function iterates through each number in the numbers array using a for loop. Inside the loop, it adds each number to a running total variable called sum. &#10;&#10;After looping through all the numbers, it returns the final sum value. This is the output of the function.&#10;&#10;So in summary, it takes an array of numbers as input, loops through the array to add up all the numbers, and returns the total sum of the numbers in the array. This allows the caller to easily get the sum of an array of numbers with one function call.&#10;&#10;The key steps are:&#10;&#10;1. Initialize a variable sum to store the running total &#10;2. Loop through each number in the input array&#10;3. Add each number to the running sum variable&#10;4. Return the final sum after looping through all numbers&#10;&#10;This implements the logic to iterate through a collection and calculate a total in a simple, clear way that a beginner can understand." />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-02-20T21:52:02.399909" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="1e3f361d-d0af-4c57-b42f-6146c04e48fc" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="Please review and analyze the selected code and identify potential areas for improvement related to code smells, readability, maintainability, performance, security, etc. Do not list issues already addressed in the given code. Focus on providing up to 5 constructive suggestions that could make the code more robust, efficient, or align with best practices. For each suggestion, provide a brief explanation of the potential benefits. After listing any recommendations, summarize if you found notable opportunities to enhance the code quality overall or if the code generally follows sound design principles. If no issues found, reply 'There are no errors.'" />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" Based on the selected log code, here are 5 potential suggestions:&#10;&#10;1. Add more informative logging levels like DEBUG, INFO, WARN, ERROR - Using different log levels can help filter and focus on important messages during debugging or production monitoring.&#10;&#10;2. Log exception stack traces for errors - Logging full exception details makes it easier to pinpoint the source of errors.&#10;&#10;3. Use a logging framework like Log4j or slf4j - This allows more configurability for log message formatting, output destinations, etc.&#10;&#10;4. Avoid logging sensitive information - Data like passwords or API keys should not be logged as it poses a security risk.&#10;&#10;5. Add context info like class, method, line number to log messages - Extra context makes it easier to pinpoint the exact source of a log message.&#10;&#10;Overall, the log code is reasonably well structured and follows common logging best practices. A few tweaks like using log levels, a logging framework, and adding more context could make the logs more useful, but there are no major issues identified." />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-02-20T21:52:25.758085" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjo5" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="06de9bf7-c256-41e4-86eb-88a97fa1d2dc" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjo5" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="483dc0d7-1663-4ba5-ab43-1ce122ff1a8b" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="Review the shared code context and configurations to identify the test framework and libraries in use. Then, generate a suite of multiple unit tests for the functions in &lt;selected&gt; using the detected test framework and libraries. Be sure to import the function being tested. Follow the same patterns as any shared context. Only add packages, imports, dependencies, and assertions if they are used in the shared code. Pay attention to the file path of each shared context to see if test for &lt;selected&gt; already exists. If one exists, focus on generating new unit tests for uncovered cases. If none are detected, import common unit test libraries for {languageName}. Focus on validating key functionality with simple and complete assertions. Only include mocks if one is detected in the shared code. Before writing the tests, identify which test libraries and frameworks to import, e.g. 'No new imports needed - using existing libs' or 'Importing test framework that matches shared context usage' or 'Importing the defined framework', etc. Then briefly summarize test coverage and any limitations. At the end, enclose the full completed code for the new unit tests, including all necessary imports, in a single markdown codeblock. No fragments or TODO. The new tests should validate expected functionality and cover edge cases for &lt;selected&gt; with all required imports, including importing the function being tested. Do not repeat existing tests." />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" Unfortunately there is no shared code context provided to analyze the test framework and libraries in use. To generate unit tests, I would need some code containing the functions to test as well as any existing test files using the desired frameworks. Without any context, I cannot reliably recommend new imports or determine coverage. Please provide the relevant code snippets with file paths so I can inspect framework usage and identify any existing tests to build upon. I'd be happy to generate new unit tests once I have more context about the codebase and tests to extend. Feel free to provide the necessary context whenever is convenient, and I can assist further with generating targeted and robust test coverage." />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-02-20T21:53:45.531232" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="16c4f420-9a1f-4010-a3f0-2f5fd7f1338a" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="create a python program to add multiple numbers" />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" Here is a Python program to add multiple numbers:&#10;&#10;```python&#10;# Program to add multiple numbers &#10;&#10;num = int(input(&quot;How many numbers you want to add: &quot;))&#10;&#10;sum = 0&#10;for i in range(num):&#10;    number = float(input(&quot;Enter number: &quot;))&#10;    sum = sum + number&#10;&#10;print(&quot;The sum is:&quot;, sum)&#10;```&#10;&#10;This program takes the number of numbers to add as input from the user. It then runs a for loop to take each number as input and keep adding them to calculate the sum. Finally, it prints the total sum.&#10;&#10;To test it:&#10;&#10;```&#10;How many numbers you want to add: 3&#10;Enter number: 2.5 &#10;Enter number: 3.7&#10;Enter number: 10.2&#10;The sum is: 16.4&#10;```&#10;&#10;The key steps are:&#10;&#10;- Take number of inputs (num) &#10;- Initialize sum to 0&#10;- Run loop num times to take input&#10;- Add each input to sum&#10;- Finally print the total sum&#10;&#10;Let me know if you need any clarification or have additional requirements for the program." />
+              </message>
+            </list>
+          </messages>
+          <model value="Claude 2.0 by Anthropic" />
+          <updatedAt value="2024-02-20T22:11:44.270492" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="3ef648d3-b937-4a50-bcd9-7d806cd7d1e5" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="Review the shared code context and configurations to identify the test framework and libraries in use. Then, generate a suite of multiple unit tests for the functions in &lt;selected&gt; using the detected test framework and libraries. Be sure to import the function being tested. Follow the same patterns as any shared context. Only add packages, imports, dependencies, and assertions if they are used in the shared code. Pay attention to the file path of each shared context to see if test for &lt;selected&gt; already exists. If one exists, focus on generating new unit tests for uncovered cases. If none are detected, import common unit test libraries for {languageName}. Focus on validating key functionality with simple and complete assertions. Only include mocks if one is detected in the shared code. Before writing the tests, identify which test libraries and frameworks to import, e.g. 'No new imports needed - using existing libs' or 'Importing test framework that matches shared context usage' or 'Importing the defined framework', etc. Then briefly summarize test coverage and any limitations. At the end, enclose the full completed code for the new unit tests, including all necessary imports, in a single markdown codeblock. No fragments or TODO. The new tests should validate expected functionality and cover edge cases for &lt;selected&gt; with all required imports, including importing the function being tested. Do not repeat existing tests." />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" No test framework or libraries detected in the shared code. Since this is Python code, I will use the unittest framework to test the functions in &lt;selected&gt;.&#10;&#10;```python&#10;import unittest&#10;from MultipleAdd import sum&#10;&#10;class TestSum(unittest.TestCase):&#10;&#10;    def test_sum_empty(self):&#10;        self.assertEqual(sum([]), 0)&#10;    &#10;    def test_sum_single(self):&#10;        self.assertEqual(sum([1]), 1)&#10;    &#10;    def test_sum_multi(self):&#10;        self.assertEqual(sum([1, 2, 3]), 6)&#10;    &#10;    def test_sum_floats(self):&#10;        self.assertEqual(sum([1.5, 2.3, 3.7]), 7.5)&#10;    &#10;    def test_sum_negatives(self):&#10;        self.assertEqual(sum([-1, -2, -3]), -6)&#10;        &#10;if __name__ == '__main__':&#10;    unittest.main()&#10;```&#10;&#10;This covers basic cases like empty list, single element, multiple elements, floats, and negatives. Limitations are no tests for invalid inputs since the function doesn't have error handling. Using unittest and importing the sum function to test." />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-02-20T22:22:10.365039" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="e0575b04-0312-43d2-a1ca-d50441eb0295" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="Review the shared code context and configurations to identify the test framework and libraries in use. Then, generate a suite of multiple unit tests for the functions in &lt;selected&gt; using the detected test framework and libraries. Be sure to import the function being tested. Follow the same patterns as any shared context. Only add packages, imports, dependencies, and assertions if they are used in the shared code. Pay attention to the file path of each shared context to see if test for &lt;selected&gt; already exists. If one exists, focus on generating new unit tests for uncovered cases. If none are detected, import common unit test libraries for {languageName}. Focus on validating key functionality with simple and complete assertions. Only include mocks if one is detected in the shared code. Before writing the tests, identify which test libraries and frameworks to import, e.g. 'No new imports needed - using existing libs' or 'Importing test framework that matches shared context usage' or 'Importing the defined framework', etc. Then briefly summarize test coverage and any limitations. At the end, enclose the full completed code for the new unit tests, including all necessary imports, in a single markdown codeblock. No fragments or TODO. The new tests should validate expected functionality and cover edge cases for &lt;selected&gt; with all required imports, including importing the function being tested. Do not repeat existing tests." />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" No test framework or libraries detected in the shared code. Since this is Python code, I will use the unittest framework to test the functions in &lt;selected&gt;.&#10;&#10;```python&#10;import unittest&#10;from MultipleAdd import sum&#10;&#10;class TestSum(unittest.TestCase):&#10;&#10;    def test_sum_empty(self):&#10;        self.assertEqual(sum([]), 0)&#10;    &#10;    def test_sum_single(self):&#10;        self.assertEqual(sum([1]), 1)&#10;    &#10;    def test_sum_multi(self):&#10;        self.assertEqual(sum([1, 2, 3]), 6)&#10;    &#10;    def test_sum_floats(self):&#10;        self.assertEqual(sum([1.5, 2.3, 3.7]), 7.5)&#10;        &#10;    def test_sum_negatives(self):&#10;        self.assertEqual(sum([-1, -2, -3]), -6)&#10;        &#10;if __name__ == '__main__':&#10;    unittest.main()&#10;```&#10;&#10;This covers basic cases like empty list, single element, multiple elements, floats, and negatives. Limitations are no test for invalid inputs since sum accepts any numbers. Using unittest and testing key cases for the sum function in &lt;selected&gt;." />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-02-20T22:23:07.922992" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="dc41f96d-0737-4437-aaaa-008ef07710ef" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="my favorite color is red" />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" Okay, I'll remember that your favorite color is red." />
+              </message>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="what is my favorite color" />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" You told me your favorite color is red." />
+              </message>
+            </list>
+          </messages>
+          <model value="Claude 2.0 by Anthropic" />
+          <updatedAt value="2024-02-20T22:24:58.4947" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="a8596ccf-ade4-4ea6-953e-2a782fbe98bb" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="7e2db766-58b4-460f-ba81-c8262f35964c" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="ac444554-859e-45df-a7f2-de14f0374a5d" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="ce833dd1-8db2-45ff-997e-da9886cda89f" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="Explain what the selected code does in simple terms. Assume the audience is a beginner programmer who has just learned the language features and basic syntax. Focus on explaining: 1) The purpose of the code 2) What input(s) it takes 3) What output(s) it produces 4) How it achieves its purpose through the logic and algorithm. 5) Any important logic flows or data transformations happening. Use simple language a beginner could understand. Include enough detail to give a full picture of what the code aims to accomplish without getting too technical. Format the explanation in coherent paragraphs, using proper punctuation and grammar. Write the explanation assuming no prior context about the code is known. Do not make assumptions about variables or functions not shown in the shared code. Start the answer with the name of the code that is being explained." />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" Explanation of Multiple Addition Program:&#10;&#10;This Multiple Addition program allows the user to enter multiple numbers to be added together. It starts by asking the user how many numbers they want to add. This number is stored in the variable num. &#10;&#10;It then uses a for loop to iterate num times. Each iteration it prompts the user to enter a number, which is stored as a float in the variable number. &#10;&#10;Inside the loop, it takes the existing sum value, and adds the current number to it. This accumulates a running total sum as it loops through all the numbers.&#10;&#10;After the loop fini" />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-02-20T22:26:29.42285" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjo5" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="d5355294-13aa-4308-bca8-b93118d5ef75" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="my favorite color is red" />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" Got it, your favorite color is red. Red is a nice, bold color. It's associated with energy, passion, and excitement. Choosing red as your favorite color suggests you have a strong, vibrant personality." />
+              </message>
+            </list>
+          </messages>
+          <model value="Claude 2 by Anthropic" />
+          <updatedAt value="2024-02-20T22:26:57.123701" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjo5" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="015bb8dd-fa7b-4522-9e4a-d0392894f38f" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="Explain what the selected code does in simple terms. Assume the audience is a beginner programmer who has just learned the language features and basic syntax. Focus on explaining: 1) The purpose of the code 2) What input(s) it takes 3) What output(s) it produces 4) How it achieves its purpose through the logic and algorithm. 5) Any important logic flows or data transformations happening. Use simple language a beginner could understand. Include enough detail to give a full picture of what the code aims to accomplish without getting too technical. Format the explanation in coherent paragraphs, using proper punctuation and grammar. Write the explanation assuming no prior context about the code is known. Do not make assumptions about variables or functions not shown in the shared code. Start the answer with the name of the code that is being explained." />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" MultipleAdd.py Code Explanation&#10;&#10;This Python code allows the user to add multiple numbers together and print the final sum. &#10;&#10;It first prompts the user to enter the number of numbers they want to add. This number is read as an integer and stored in the variable num.&#10;&#10;It then initializes a variable sum to 0 to store the running total. &#10;&#10;A for loop is used to iterate num times. Each iteration, it prompts the user to input a number, which is read as a float into the variable number. This float number is added to the running sum variable.&#10;&#10;After the loop finishes, the final sum is printed out with a descriptive message &quot;The sum is:&quot;.&#10;&#10;So in summary, this code:&#10;1) Takes as input from the user: the number of numbers to add, and each of those numbers&#10;2) Produces as output: the total sum of all the entered numbers&#10;3) Uses a loop to repeatedly read the numbers to add and accumulate a running sum&#10;4) Converts the user input to appropriate numeric types (int and float)&#10;5) Prints out the final sum once all numbers have been added&#10;&#10;The purpose is to allow adding an arbitrary number of numbers specified by the user, by using a loop to repeatedly prompt for each number and compute the total sum." />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-02-20T22:27:25.789432" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjo5" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="660bf7eb-8f65-42ee-a281-f07071f9b2b5" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="Please review and analyze the selected code and identify potential areas for improvement related to code smells, readability, maintainability, performance, security, etc. Do not list issues already addressed in the given code. Focus on providing up to 5 constructive suggestions that could make the code more robust, efficient, or align with best practices. For each suggestion, provide a brief explanation of the potential benefits. After listing any recommendations, summarize if you found notable opportunities to enhance the code quality overall or if the code generally follows sound design principles. If no issues found, reply 'There are no errors.'" />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" Here are some potential improvements for the selected Python code:&#10;&#10;1. Use more descriptive variable names like `num_to_add` instead of just `num`. This improves readability.&#10;&#10;2. Validate user input to handle non-integer inputs gracefully instead of just casting. This improves robustness.&#10;&#10;3. Use a list to store the numbers and call `sum()` on the list instead of manually summing in the loop. This simplifies the code.&#10;&#10;4. Print the sum outside of the loop instead of repeatedly concatenating strings. This improves performance slightly.&#10;&#10;5. Add docstrings and comments explaining the overall logic and key steps. This enhances maintainability.&#10;&#10;Overall, the code follows reasonable practices for simplicity and readability. A few small changes like the suggestions above could make the code easier to update and reuse. But there are no major quality or security issues. The logic is sound for basic numeric summation." />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-02-20T22:27:57.580799" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjo5" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="9312d410-9650-4c76-83ea-e774362dc227" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="Review the shared code context and configurations to identify the test framework and libraries in use. Then, generate a suite of multiple unit tests for the functions in &lt;selected&gt; using the detected test framework and libraries. Be sure to import the function being tested. Follow the same patterns as any shared context. Only add packages, imports, dependencies, and assertions if they are used in the shared code. Pay attention to the file path of each shared context to see if test for &lt;selected&gt; already exists. If one exists, focus on generating new unit tests for uncovered cases. If none are detected, import common unit test libraries for {languageName}. Focus on validating key functionality with simple and complete assertions. Only include mocks if one is detected in the shared code. Before writing the tests, identify which test libraries and frameworks to import, e.g. 'No new imports needed - using existing libs' or 'Importing test framework that matches shared context usage' or 'Importing the defined framework', etc. Then briefly summarize test coverage and any limitations. At the end, enclose the full completed code for the new unit tests, including all necessary imports, in a single markdown codeblock. No fragments or TODO. The new tests should validate expected functionality and cover edge cases for &lt;selected&gt; with all required imports, including importing the function being tested. Do not repeat existing tests." />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" No test framework or libraries are detected in the shared code context. Since this is a standalone Python script with no associated test file, I will generate tests using the unittest framework:&#10;&#10;```python&#10;import unittest&#10;from MultipleAdd import sum&#10;&#10;class TestSum(unittest.TestCase):&#10;&#10;    def test_sum_empty(self):&#10;        self.assertEqual(sum([]), 0)&#10;&#10;    def test_sum_single_value(self):&#10;        self.assertEqual(sum([5]), 5)&#10;&#10;    def test_sum_multiple_values(self):&#10;        self.assertEqual(sum([1, 2, 3]), 6)&#10;&#10;    def test_sum_with_negatives(self):&#10;        self.assertEqual(sum([1, -2, 3]), 2)&#10;```&#10;&#10;This covers basic validation of the sum function, including empty list, single value, multiple values, and values with negatives. Limitations are no mocks or integration testing since no dependencies detected. Focused on happy path and edge cases with simple assertions using unittest." />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-02-20T22:28:33.047943" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjo5" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/symf" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/renovate-dependency-test" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="5b27345e-f1ae-494a-9b8e-6c753c581c6f" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="Explain what the selected code does in simple terms. Assume the audience is a beginner programmer who has just learned the language features and basic syntax. Focus on explaining: 1) The purpose of the code 2) What input(s) it takes 3) What output(s) it produces 4) How it achieves its purpose through the logic and algorithm. 5) Any important logic flows or data transformations happening. Use simple language a beginner could understand. Include enough detail to give a full picture of what the code aims to accomplish without getting too technical. Format the explanation in coherent paragraphs, using proper punctuation and grammar. Write the explanation assuming no prior context about the code is known. Do not make assumptions about variables or functions not shown in the shared code. Start the answer with the name of the code that is being explained." />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" MultipleAdd.py Code Explanation&#10;&#10;This Python code allows the user to add multiple numbers together and print the final sum. &#10;&#10;It first prompts the user to enter the number of numbers they want to add. This number is read as an integer and stored in the variable num.&#10;&#10;It then initializes a variable sum to 0 to store the running total. &#10;&#10;A for loop is used to iterate num times. Each iteration, it prompts the user to input a number, which is read as a float into the variable number. This float number is added to the running sum variable.&#10;&#10;After the loop finishes, the final sum is printed out with a descriptive message &quot;The sum is:&quot;.&#10;&#10;So in summary, this code:&#10;1) Takes as input from the user: the number of numbers to add, and each of those numbers&#10;2) Produces as output: the total sum of all the entered numbers&#10;3) Uses a loop to repeatedly read the numbers to add and accumulate a running sum&#10;4) Converts the user input to appropriate numeric types (int and float)&#10;5) Prints out the final sum, demonstrating the purpose of adding numbers.&#10;&#10;The logic flow is:&#10;- Initialize sum variable &#10;- Get number of numbers to add&#10;- Loop that many times&#10;  - Read next number&#10;  - Add it to running sum&#10;- Print final sum&#10;&#10;So in simple terms, it allows adding an arbitrary number of entered numbers, demonstrating a basic summing algorithm." />
+              </message>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="what is symf" />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" Unfortunately I do not have enough context to determine what &quot;symf&quot; refers to. As an AI assistant without access to external information, I can only respond based on the dialogue history and information you provide. &#10;&#10;If you provide more details or clarify what you mean by &quot;symf&quot;, I'd be happy to try answering again. Some ways you could give me more context:&#10;&#10;- Provide the broader context where you encountered &quot;symf&quot; - was it in some code or text you want me to analyze?&#10;&#10;- Spell out the full word or term if &quot;symf&quot; is an abbreviation.&#10;&#10;- Give an example sentence or statement where &quot;symf&quot; appears.&#10;&#10;- Explain if &quot;symf&quot; refers to a programming concept, variable name, framework, library, etc.&#10;&#10;Please feel free to give me some more details that can help me understand the meaning behind your question. I want to provide helpful information, but need some additional context about &quot;symf&quot; first. Let me know if you can clarify what you're asking!" />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-02-20T22:32:19.901093" />
+        </chat>
       </list>
     </chats>
     <defaultEnhancedContext>
       <enhancedContext>
-        <isEnabled value="false" />
+        <remoteRepositories>
+          <list>
+            <remoteRepository>
+              <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+            </remoteRepository>
+            <remoteRepository>
+              <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+            </remoteRepository>
+            <remoteRepository>
+              <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+            </remoteRepository>
+            <remoteRepository>
+              <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+            </remoteRepository>
+            <remoteRepository>
+              <remoteUrl value="https://github.com/sourcegraph/about" />
+            </remoteRepository>
+            <remoteRepository>
+              <remoteUrl value="https://github.com/sourcegraph/sg" />
+            </remoteRepository>
+            <remoteRepository>
+              <remoteUrl value="https://github.com/sourcegraph/cody" />
+            </remoteRepository>
+            <remoteRepository>
+              <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+            </remoteRepository>
+            <remoteRepository>
+              <remoteUrl value="https://github.com/sourcegraph/handbook" />
+            </remoteRepository>
+          </list>
+        </remoteRepositories>
       </enhancedContext>
     </defaultEnhancedContext>
   </component>
