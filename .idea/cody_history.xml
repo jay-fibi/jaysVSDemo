@@ -159,6 +159,41 @@
         </chat>
         <chat>
           <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
           <internalId value="ac34d9dc-20cb-462f-b532-784fa2019772" />
           <llm>
             <llm>
@@ -395,9 +430,8 @@
           <internalId value="7e4c4141-2e17-47ad-8710-63bd76268a98" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -577,9 +611,8 @@
           <internalId value="e52f1a89-0b87-4a01-80d3-d2115c67ae8d" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -612,9 +645,8 @@
           <internalId value="83365fae-6f4c-4e80-8bf8-1bc012ba40ff" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -647,9 +679,8 @@
           <internalId value="772a19e3-0117-48d5-bbba-b3516e3b5d0a" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -826,9 +857,8 @@
           <internalId value="df6423b3-4b42-4159-8ac6-4b0639ebebf2" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -1422,9 +1452,8 @@
           <internalId value="8a27a5e1-748f-4fbe-b1f9-aa361fd79c84" />
           <llm>
             <llm>
-              <model value="openai/gpt-3.5-turbo" />
-              <provider value="OpenAI" />
-              <title value="GPT-3.5 Turbo" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -2343,9 +2372,8 @@
           <internalId value="16c4f420-9a1f-4010-a3f0-2f5fd7f1338a" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -2518,9 +2546,8 @@
           <internalId value="dc41f96d-0737-4437-aaaa-008ef07710ef" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -3258,9 +3285,8 @@
           <internalId value="295bbd42-aed8-4987-8235-b4c9c7fe930a" />
           <llm>
             <llm>
-              <model value="openai/gpt-4-1106-preview" />
-              <provider value="OpenAI" />
-              <title value="GPT-4 Turbo Preview" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -3550,9 +3576,8 @@
           <internalId value="6b8a6d72-e318-4ae4-8928-d97de4f56f8b" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -3605,9 +3630,8 @@
           <internalId value="b9caee49-da3d-4d59-84f8-84211f7fde3a" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -3648,9 +3672,8 @@
           <internalId value="2ee89992-ff90-49b8-b346-11ac278d2e70" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -3716,9 +3739,8 @@
           <internalId value="62010631-7487-41bc-a1d0-340ad9001e26" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -3800,9 +3822,8 @@
           <internalId value="e8f8cef8-5011-4b38-8ffa-9e024c1fea5d" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -3884,9 +3905,8 @@
           <internalId value="a19c0d3d-f30a-4b1f-b532-3ede440e00d6" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -3955,9 +3975,8 @@
           <internalId value="27f38308-f896-4aea-97ce-9e8eff3a65e6" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -4038,9 +4057,8 @@
           <internalId value="9ee8035c-d9f1-4937-aa9b-94e30f862733" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -4121,9 +4139,8 @@
           <internalId value="7254c5db-78b2-41b0-9f3f-73a4a11d9ce7" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -4191,9 +4208,8 @@
           <internalId value="a2eb8ca0-9e29-4943-b03d-0ecd33e705de" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -4274,9 +4290,8 @@
           <internalId value="3d6f5017-f9fc-440f-a728-c45b994a22bb" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -4357,9 +4372,8 @@
           <internalId value="2dc7665f-008f-4aee-b3e6-2e44230b924f" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -4440,9 +4454,8 @@
           <internalId value="2e9c4a1d-3a67-4840-bd3f-6e5c815bf090" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -4510,9 +4523,8 @@
           <internalId value="a8114f36-f16a-4ee9-ab3d-5ceab3d3a2f1" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -4593,9 +4605,8 @@
           <internalId value="b024a54a-b0ac-448e-a0e7-8a778f2c6f8b" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -4684,9 +4695,8 @@
           <internalId value="630fd0b2-a6ea-4e4f-8b4d-cd8979ec77ed" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -4754,9 +4764,8 @@
           <internalId value="35ed0cee-5f04-460a-99cb-9acf074c5085" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -4837,9 +4846,8 @@
           <internalId value="b1bcd024-6e04-43d0-9a15-d8b56625f474" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -4920,9 +4928,8 @@
           <internalId value="36dbe037-dec9-497f-8eb8-8eb2a932d1f6" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2" />
-              <provider value="Anthropic" />
-              <title value="claude 2" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
           <messages>
@@ -5000,6 +5007,12 @@
             </enhancedContext>
           </enhancedContext>
           <internalId value="fd6c254b-4a35-4723-b0f1-b445f0f47aad" />
+          <llm>
+            <llm>
+              <provider value="Unknown" />
+              <title value="Unknown" />
+            </llm>
+          </llm>
         </chat>
         <chat>
           <accountId value="VXNlcjoyMzIwMjY=" />
@@ -5063,6 +5076,12 @@
             </enhancedContext>
           </enhancedContext>
           <internalId value="65c8eb6a-2cb3-496d-80bf-7a0520fa5f1c" />
+          <llm>
+            <llm>
+              <provider value="Unknown" />
+              <title value="Unknown" />
+            </llm>
+          </llm>
         </chat>
         <chat>
           <accountId value="VXNlcjoyMzIwMjY=" />
@@ -5126,6 +5145,12 @@
             </enhancedContext>
           </enhancedContext>
           <internalId value="93bbf88e-b132-4741-b05b-8b4d902d3158" />
+          <llm>
+            <llm>
+              <provider value="Unknown" />
+              <title value="Unknown" />
+            </llm>
+          </llm>
         </chat>
         <chat>
           <accountId value="VXNlcjoyMzIwMjY=" />
@@ -5191,9 +5216,8 @@
           <internalId value="aafd40e9-f232-4eda-9181-59d4601f2cc6" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -5261,9 +5285,8 @@
           <internalId value="6b9429d5-9514-4915-b788-671be3dfdbd8" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -5329,6 +5352,12 @@
             </enhancedContext>
           </enhancedContext>
           <internalId value="cf682370-5413-4a65-90f9-755b3e318a7c" />
+          <llm>
+            <llm>
+              <provider value="Unknown" />
+              <title value="Unknown" />
+            </llm>
+          </llm>
         </chat>
         <chat>
           <accountId value="VXNlcjoyMzIwMjY=" />
@@ -5394,9 +5423,8 @@
           <internalId value="410a1481-5460-4f4b-a416-c3736ce77b7a" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -5464,9 +5492,8 @@
           <internalId value="b0bb3633-900d-4db8-855a-1772cb7b5233" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -5534,9 +5561,8 @@
           <internalId value="2e953da0-6d3a-4faa-8b24-8f558fa8bacc" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -5604,9 +5630,8 @@
           <internalId value="fb36f3fb-2de4-4929-b2c5-0d21cdc6118d" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -5674,9 +5699,8 @@
           <internalId value="31420557-cc7d-487c-b918-e1136930207a" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -5744,9 +5768,8 @@
           <internalId value="6e7a6206-6eb2-416b-add2-c0a29c99ab8b" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -5814,9 +5837,8 @@
           <internalId value="1cc9b28f-fec8-4291-8b7f-6515fbb85804" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -5884,9 +5906,8 @@
           <internalId value="630fe1c5-f689-49c5-843d-0669eadf2d89" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -5954,9 +5975,8 @@
           <internalId value="26ddb54d-075a-460d-b7b0-74725becafce" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
-              <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <provider value="Unknown" />
+              <title value="Unknown" />
             </llm>
           </llm>
         </chat>
@@ -6024,6 +6044,1160 @@
           <internalId value="81f062fc-2c18-49cf-bb5b-d7db6e4e937b" />
           <llm>
             <llm>
+              <provider value="Unknown" />
+              <title value="Unknown" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="0a5d4b29-f782-458f-b7de-0f33f16290de" />
+          <llm>
+            <llm>
+              <provider value="Unknown" />
+              <title value="Unknown" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="dac560b3-1f30-4c77-9aa6-3099d70af267" />
+          <llm>
+            <llm>
+              <provider value="Unknown" />
+              <title value="Unknown" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="68d655ec-09df-4294-b40c-db6f3a20a874" />
+          <llm>
+            <llm>
+              <provider value="Unknown" />
+              <title value="Unknown" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="13ce3c04-9fd5-4b76-8639-ea7832ac9ee8" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/handbook" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="6eeff1a4-d07e-4857-920c-a7d1562690f0" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="f9638fab-395c-4214-9cb1-46c0f33fa33f" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="e609bcac-68c8-4236-ba4c-15705e280185" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="3d772291-db6d-4124-9bd2-aea0c86c257a" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="3a255cbd-9758-46e1-846c-0bb375ba26a2" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="9ef8f568-3a1d-425a-aff0-bdecfc88377c" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="1fba7c4d-f782-42c1-b7f8-8dce8b70a048" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="bb5a6879-fca1-40b5-ac65-bc9f81ae484d" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="40fdaab6-e726-46cc-81c7-c409ba1dd11c" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="Explain what the selected code does in simple terms. Assume the audience is a beginner programmer who has just learned the language features and basic syntax. Focus on explaining: 1) The purpose of the code 2) What input(s) it takes 3) What output(s) it produces 4) How it achieves its purpose through the logic and algorithm. 5) Any important logic flows or data transformations happening. Use simple language a beginner could understand. Include enough detail to give a full picture of what the code aims to accomplish without getting too technical. Format the explanation in coherent paragraphs, using proper punctuation and grammar. Write the explanation assuming no prior context about the code is known. Do not make assumptions about variables or functions not shown in the shared code. Start the answer with the name of the code that is being explained." />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" Explanation of Palindrome Finder Code:&#10;&#10;This code finds palindrome numbers up to 999 and prints them out along with their squares. &#10;&#10;It starts by defining a function called is_palindrome that takes a number as input and returns True if the number is a palindrome, otherwise False. &#10;&#10;Inside is_palindrome, it makes a copy of the input number into temp. It initializes a variable reverse_num to 0 to hold the reversed version of the number. &#10;&#10;It uses a while loop to repeatedly divide temp by 10 and add the remainder to reverse_num. This has the effect of reversing the digits of temp. &#10;&#10;Once temp reaches 0, the while loop exits. At this point, reverse_num holds the reversed digits of the original input number.&#10;&#10;The function compares the original input num to reverse_num. If they are equal, it returns True indicating this is a palindrome number.&#10;&#10;After defining the is_palindrome function, the main code has a for loop that counts from 1 to 999. &#10;&#10;For each number i, it calls is_palindrome(i) to check if that number is a palindrome. &#10;&#10;If it is, the code prints out the number i and then prints out the squared value i * i on the next line.&#10;&#10;So in summary, this code iterates through numbers 1 to 999, identifies the palindrome numbers, prints them out, and also prints their squares. It uses a separate is_palindrome function to check for palindromes in a loop." />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-03-04T23:14:13.1808537" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="bbff6320-2b71-4933-9e44-e1071724f759" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="8e5263a1-1921-434f-a05b-ac8bd54b8dc4" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="0b35ee9b-3519-4025-a20a-254b0c324983" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="Explain what the selected code does in simple terms. Assume the audience is a beginner programmer who has just learned the language features and basic syntax. Focus on explaining: 1) The purpose of the code 2) What input(s) it takes 3) What output(s) it produces 4) How it achieves its purpose through the logic and algorithm. 5) Any important logic flows or data transformations happening. Use simple language a beginner could understand. Include enough detail to give a full picture of what the code aims to accomplish without getting too technical. Format the explanation in coherent paragraphs, using proper punctuation and grammar. Write the explanation assuming no prior context about the code is known. Do not make assumptions about variables or functions not shown in the shared code. Start the answer with the name of the code that is being explained." />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" Explanation of Palindrome Finder Code:&#10;&#10;This code finds palindrome numbers up to 1000 and prints them out along with their squares. &#10;&#10;It starts by defining a function called is_palindrome that takes a number as input and returns True if the number is a palindrome, False if not. &#10;&#10;Inside is_palindrome, it makes a copy of the input number into temp. It initializes a variable reverse_num to 0 to hold the reversed version of the number. &#10;&#10;It then enters a while loop that repeatedly takes the last digit of temp using modulo 10, adds it to the front of reverse_num by multiplying reverse_num by 10, and chops off the last digit of temp by dividing it by 10. This loops until temp reaches 0, reversing the digits.&#10;&#10;It returns True if the original number is equal to the reversed number reverse_num, False otherwise.&#10;&#10;After defining the function, the main code loops through numbers 1 to 999, calling is_palindrome on each and printing the number if it is a palindrome. It also prints the square of the palindromic numbers.&#10;&#10;So in summary, it takes numbers as input, checks if they are palindromic by reversing the digits and comparing, then prints any palindromes along with their squares. The key steps are reversing the digits, checking for equality to identify palindromes, looping over a range of numbers, and calling the is_palindrome function." />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-03-05T21:54:22.5625269" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="d9652201-53f3-4202-ad63-c0f10b395e42" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="bf0b16ad-9fa7-4ef5-bd45-62c76f99261c" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="8de59402-ec40-4163-a687-ac1c2e9e8084" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="0f6e7bf1-0077-4e65-a73b-4d8c3ddc7177" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="b8471f8f-0caf-46ee-8a3c-0ed4134bd69c" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="53113d91-805b-437a-8e89-f6db98c358a9" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="3d507914-3949-493e-9b8a-b470e44d2653" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="9a786fc0-2257-456f-8b49-6a3a45c105dd" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="853af97d-83b2-4b1a-8a0c-fefb5615ac18" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="4b102bbf-278c-44fd-a45e-5413016c8d48" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="9ebfb6ef-d09e-46a6-b9be-142194ce1c76" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="6b2d5093-c60f-4f73-af76-58f9b5dbafed" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="Please review and analyze the selected code and identify potential areas for improvement related to code smells, readability, maintainability, performance, security, etc. Do not list issues already addressed in the given code. Focus on providing up to 5 constructive suggestions that could make the code more robust, efficient, or align with best practices. For each suggestion, provide a brief explanation of the potential benefits. After listing any recommendations, summarize if you found notable opportunities to enhance the code quality overall or if the code generally follows sound design principles. If no issues found, reply 'There are no errors.'" />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" Here are 5 potential improvements for the selected Python code:&#10;&#10;1. Use datetime objects instead of strings for printing dates. This avoids repeatedly calling strftime and makes the code more readable.&#10;&#10;2. Add timezone information to the datetime objects to avoid ambiguity. For example: presentday = datetime.now(tz=pytz.utc)&#10;&#10;3. Validate user input before using it to construct datetime objects. This prevents crashes from invalid dates.&#10;&#10;4. Use dateutil library to parse user-provided date strings instead of manually parsing. This is more robust.&#10;&#10;5. Create a utility function to handle date arithmetic like adding/subtracting days. This encapsulates the logic for reusability.&#10;&#10;Overall, the code follows reasonable practices but could be enhanced by leveraging Python's datetime module more effectively and adding validation/robustness around date handling. The suggestions around using datetimes directly, adding timezones, and creating utils would improve maintainability." />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-03-05T22:04:43.2099323" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="75b917dd-a398-414d-b5d1-c554daf2c3b6" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="7ca4c9dc-78d6-4f8b-ba31-958ca95bba69" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="8540fa80-d27a-4b91-bddf-7d9a689e1791" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="fa427228-9bc1-4b5e-91c6-833ede081b71" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="32079fe9-8ad1-4e6c-a089-9c4082d5e795" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.1" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.1 Preview" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="f0b2c5ac-1dce-4c23-9690-6624864601e3" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="8cd5ebac-ef8d-4ed1-9de3-25deaf6f2203" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="fdf67c44-984a-4255-bf86-af21bfc45acc" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="56c78fea-5b22-4903-97e9-32de80041e5a" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="9c1e4198-bfbe-4581-a536-23c5bd49b8ce" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="0b284c1e-da77-46a3-8dd2-299fde2a2d21" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="8fe2e093-e13c-49cc-82f0-d0d0e16aa059" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="876db693-c0e9-47ca-a4e7-a559d5017ee7" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="3b3061f4-ffbf-4821-a681-9bb0e513d1ea" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzIwMjY=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="8600fab1-6870-4af7-997c-56c9255c6bf9" />
+          <llm>
+            <llm>
               <model value="anthropic/claude-2.0" />
               <provider value="Anthropic" />
               <title value="Claude 2.0" />
@@ -6036,54 +7210,6 @@
       <enhancedContext>
         <remoteRepositories>
           <list>
-            <remoteRepository>
-              <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
-            </remoteRepository>
-            <remoteRepository>
-              <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
-            </remoteRepository>
-            <remoteRepository>
-              <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
-            </remoteRepository>
-            <remoteRepository>
-              <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
-            </remoteRepository>
-            <remoteRepository>
-              <remoteUrl value="https://github.com/sourcegraph/about" />
-            </remoteRepository>
-            <remoteRepository>
-              <remoteUrl value="https://github.com/sourcegraph/sg" />
-            </remoteRepository>
-            <remoteRepository>
-              <remoteUrl value="https://github.com/sourcegraph/cody" />
-            </remoteRepository>
-            <remoteRepository>
-              <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
-            </remoteRepository>
-            <remoteRepository>
-              <remoteUrl value="github.com/sourcegraph/scip-typescript" />
-            </remoteRepository>
-            <remoteRepository>
-              <remoteUrl value="github.com/sourcegraph/smoke-tests" />
-            </remoteRepository>
-            <remoteRepository>
-              <remoteUrl value="github.com/sourcegraph/scip-dotnet" />
-            </remoteRepository>
-            <remoteRepository>
-              <remoteUrl value="github.com/sourcegraph/clabot-config" />
-            </remoteRepository>
-            <remoteRepository>
-              <remoteUrl value="github.com/sourcegraph/about" />
-            </remoteRepository>
-            <remoteRepository>
-              <remoteUrl value="github.com/sourcegraph/sg" />
-            </remoteRepository>
-            <remoteRepository>
-              <remoteUrl value="github.com/sourcegraph/cody" />
-            </remoteRepository>
-            <remoteRepository>
-              <remoteUrl value="github.com/sourcegraph/jetbrains" />
-            </remoteRepository>
             <remoteRepository>
               <remoteUrl value="github.com/sourcegraph/sourcegraph" />
             </remoteRepository>
