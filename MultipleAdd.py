@@ -7,6 +7,7 @@ for i in range(num):
     number = float(input("Enter number: "))
     sum = sum + number
 
+
 print("The sum is:", sum)
 
 #print "hello world"
