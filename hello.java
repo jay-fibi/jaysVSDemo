@@ -1,3 +1,12 @@
 public class hello{
-    public
+    public static void main(String[] args){
+        System.out.println("Hello World");
+
+        //print hello world
+        System.out.println("Hello World");
+
+        for(int i=0;i<10;i++){
+            System.out.println("Hello World");
+        }
+}
 }

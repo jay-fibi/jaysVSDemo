@@ -12,3 +12,5 @@ for i in range(1, 1000):
     if is_palindrome(i):
         print(i)
         print(i * i)
+        #print hello world
+        print("hello world")
