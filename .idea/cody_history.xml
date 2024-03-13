@@ -4874,9 +4874,219 @@
           <internalId value="a4b6d99a-7838-4c37-b147-e93f0273b20d" />
           <llm>
             <llm>
-              <model value="anthropic/claude-2.0" />
+              <model value="anthropic/claude-3-opus-20240229" />
               <provider value="Anthropic" />
-              <title value="Claude 2.0" />
+              <title value="Claude 3 Opus" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="76970751-e3dc-444a-bed6-3d1e5f27a7ba" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-3-opus-20240229" />
+              <provider value="Anthropic" />
+              <title value="Claude 3 Opus" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="e36b6ba8-0ab6-44bc-9e63-9932c5c13942" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-3-opus-20240229" />
+              <provider value="Anthropic" />
+              <title value="Claude 3 Opus" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyODYwNDg=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="https://github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/scip-typescript" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/smoke-tests" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/scip-dotnet" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/clabot-config" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/about" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sg" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/cody" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/jetbrains" />
+                  </remoteRepository>
+                  <remoteRepository>
+                    <remoteUrl value="github.com/sourcegraph/sourcegraph" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="6a2b176b-8659-4d71-ab9e-19357155fc09" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-3-opus-20240229" />
+              <provider value="Anthropic" />
+              <title value="Claude 3 Opus" />
             </llm>
           </llm>
         </chat>
