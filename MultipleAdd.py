@@ -7,5 +7,9 @@ for i in range(num):
     number = float(input("Enter number: "))
     sum = sum + number
 
+sum = sum + 1
+for i in range(num):
+    number = float(input("Enter number: "))
+    sum = sum + number
 
 print("The sum is:", sum)

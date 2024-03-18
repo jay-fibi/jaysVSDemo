@@ -15,6 +15,7 @@ print(get_greeting("David"))
 # Function with multiple parameters
 def add(num1, num2):
   return num1 + num2
+  print(add(3, 5))
 
 print(add(3, 5))
 
@@ -37,3 +38,15 @@ def factorial(x):
     return x * factorial(x-1)
 
 print(factorial(5))
+
+def fibonacci(x):
+    if x == 0 or x == 1:
+        return 1
+    else:
+        return fibonacci(x - 1) + fibonacci(x - 2)
+
+def fibonacci_iterative(x):
+    a, b = 0, 1
+    for i in range(x):
+        a, b = b, a + b
+    return a

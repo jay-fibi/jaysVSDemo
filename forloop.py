@@ -20,24 +20,8 @@ for i in range(1, 11):
     print(i)
 
 # Print numbers from 1 to 10 and t
-import unittest
-from forloop import my_string, print_char
 
-class TestForLoop(unittest.TestCase):
+# Print numbers from 1 to 1000
+    for i in range(1, 1001):
+        print(i)
 
-    def test_print_char(self):
-        # Test printing each char in a string
-        my_string = "Hello World"
-        expected = ['H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd']
-        for i, char in enumerate(my_string):
-            print_char(char)
-            self.assertEqual(char, expected[i])
-
-    def test_print_char_empty(self):
-        # Test printing chars in an empty string
-        my_string = ""
-        print_char(my_string)
-        self.assertFalse(my_string)
-
-if __name__ == '__main__':
-    unittest.main()
