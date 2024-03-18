@@ -25,7 +25,6 @@ class TodoList:
   """
 def __init__(self):
     self.todos = []
-  
   def add(self, name):
     self.todos.append(Todo(name))
 

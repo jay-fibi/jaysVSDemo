@@ -1,27 +1,17 @@
-class GFG {
-public	static int biggestOfThree(int x, int y, int z)
-	{
+public class hello {
+	public static void main(String[] args) {
+		System.out.println("hello world");
 
-		return z > (x > y ? x : y) ? z : ((x > y) ? x : y);
+		int a =10;
+		int b = 20;
+		int c = a+b;
+		System.out.println(c);
+
+		//print odd or even
+		if (c%2==0) {
+			System.out.println("even");
+		}
+		else {
+			System.out.println("odd");
+		}
 	}
-
-	// Main driver function
-	public static void main(String[] args)
-	{
-
-		// Declaring variables for 3 numbers
-		int a, b, c;
-
-		// Variable holding the largest number
-		int largest;
-		a = 5;
-		b = 10;
-		c = 3;
-		// Calling the above function in main
-		largest = biggestOfThree(a, b, c);
-
-		// Printing the largest number
-		System.out.println(largest
-						+ " is the largest number.");
-	}
-}
