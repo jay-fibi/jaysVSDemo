@@ -2,6 +2,11 @@ public class hello{
 	public static void main(String argsp[]){
 		System.out.println("Hello WOrld");
 	}
+	/**
+	 * bubbleSort sorts the given integer array using the bubble sort algorithm.
+	 * It iterates through the array multiple times, swapping adjacent elements if
+	 * they are out of order, until the array is sorted.
+	 */
 	public void bubbleSort(int[] array) {
 		int n = array.length;
 		for (int i = 0; i < n; i++) {
@@ -13,8 +18,8 @@ public class hello{
 					array[j] = temp;
 				}
 			}
+		}
 	}
-}
 	public void selectionSort(int[] array) {
 		int n = array.length;
 		for (int i = 0; i < n; i++) {
