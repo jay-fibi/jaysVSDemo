@@ -41,3 +41,17 @@ class TestForLoop(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+my_string = "Hello World"
+for char in my_string:
+  print(char) 
+
+for i in range(1, 11):
+  if i == 5:
+    continue
+  print(i)
+
+for i in range(1, 11):
+  if i > 5:
+    break
+  print(i)

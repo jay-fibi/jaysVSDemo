@@ -19,6 +19,11 @@ while num_terms <= 0:
     except ValueError:
         print("Invalid input. Please enter an integer.")
 
+"""Generate a string representation of the Fibonacci sequence and print it.
+
+This code takes the Fibonacci numbers calculated for the given number of terms, 
+converts them to strings, joins them with commas and prints the resulting string.
+"""
 fib_sequence = [str(fibonacci(i)) for i in range(num_terms)]
 print("Fibonacci sequence:")  
 print(", ".join(fib_sequence))
