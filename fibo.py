@@ -19,16 +19,9 @@
         except ValueError:
             print("Invalid input. Please enter an integer.")
 
-<<<<<<< HEAD
     fib_sequence = [str(fibonacci(i)) for i in range(num_terms)]
     print("Fibonacci sequence:")
     print(", ".join(fib_sequence))
-=======
-"""Generate a string representation of the Fibonacci sequence and print it.
-
-This code takes the Fibonacci numbers calculated for the given number of terms, 
-converts them to strings, joins them with commas and prints the resulting string.
-"""
 fib_sequence = [str(fibonacci(i)) for i in range(num_terms)]
 print("Fibonacci sequence:")  
 print(", ".join(fib_sequence))
@@ -106,4 +99,3 @@ class TestFibonacciInput(unittest.TestCase):
                 except ValueError:
                     print("Invalid input. Please enter an integer.")
         mock_print.assert_any_call("Invalid input. Please enter an integer.")
->>>>>>> 2c5a1fa824ef3d93c66337990111920187aeba58
