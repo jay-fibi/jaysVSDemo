@@ -1,35 +1,13 @@
-# This function adds two numbers
+
 def add(x, y):
     return x + y
 
-# This function subtracts two numbers
 def subtract(x, y):
     return x - y
 
-# This function multiplies two numbers
-"""Multiply two numbers.
-
-Args:
-    x: First number
-    y: Second number
-
-Returns:
-    The product of x and y
-"""
-
-"""Divide two numbers.
-
-Args:
-    x: The dividend
-    y: The divisor 
-
-Returns:
-    The quotient of x and y
-"""
 def multiply(x, y):
     return x * y
 
-# This function divides two numbers
 def divide(x, y):
     return x / y
 
@@ -39,7 +17,7 @@ print("2.Subtract")
 print("3.Multiply")
 print("4.Divide")
 print("5.Exit")
-
+print("hello")
 
 while True:
     # take input from the user
