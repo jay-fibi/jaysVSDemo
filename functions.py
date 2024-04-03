@@ -50,3 +50,17 @@ def fibonacci_iterative(x):
     for i in range(x):
         a, b = b, a + b
     return a
+def fibonacci_iterative(x: int) -> int:
+    """
+    Calculate the x-th Fibonacci number using an iterative approach.
+
+    Args:
+        x (int): The position of the Fibonacci number to calculate.
+
+    Returns:
+        int: The x-th Fibonacci number.
+    """
+    prev, curr = 0, 1
+    for _ in range(x):
+        prev, curr = curr, prev + curr
+    return prev
