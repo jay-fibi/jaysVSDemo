@@ -3,6 +3,16 @@ import logging
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
+"""
+Finds prime numbers between the given range (x, y).
+
+Args:
+  x: The starting value of the range (inclusive)
+  y: The ending value of the range (exclusive)
+
+Returns:
+  A list containing all the prime numbers in the range
+"""
 def prime(x, y):
 	prime_list = []
 	for i in range(x, y):

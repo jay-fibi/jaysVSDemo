@@ -29,6 +29,7 @@ print(increment(2, by=3))
 # Lambda function
 triple = lambda x: x * 3
 print(triple(5))
+print(increment(5))
 
 # Recursive function
 def factorial(x):
