@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Define a function
 def greet(name):
   print("Hello", name)
@@ -65,3 +66,32 @@ def fibonacci_iterative(x: int) -> int:
     for _ in range(x):
         prev, curr = curr, prev + curr
     return prev
+=======
+public class hello{
+  public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+  
+  public static void print_char(String my_string) {
+        for (int i = 0; i < my_string.length(); i++) {
+            System.out.print(my_string.charAt(i));
+        }
+    }
+  
+  public static void print_char_empty(String my_string) {
+        if (my_string.length() == 0) {
+            System.out.println("The string is empty");
+        } else {
+            System.out.println("The string is not empty");
+        }
+    }
+  
+  public static void print_char_empty_if(String my_string) {
+    System.out.println(my_string.length() == 0? "The string is empty" : "The string is not empty");
+    
+    for (int i = 0; i < my_string.length(); i++) {
+      System.out.print(my_string.charAt(i));
+    }
+  }
+}
+>>>>>>> bef895f (new commit...)
