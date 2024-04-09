@@ -23,7 +23,7 @@ public class hello {
 		System.out.println("Hello, World!");
 	}
 
-	pub lic
+	public 
 
 	static int getSum(int a, int b) {
 		return a + b;
