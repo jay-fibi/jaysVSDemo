@@ -7,7 +7,7 @@ rand_digit = random.randint(10, 20)
 alphabets = ['A','B','C','D','E','F','G','H','I','J']
 
 # Select random alphabet
-rand_alpha = random.choice(alphabets)
+Trand_alpha = random.choice(alphabets)
 
 # Print output 
 print(str(rand_digit) + rand_alpha)
