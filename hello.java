@@ -1,4 +1,8 @@
+
 public class Hello {
+=======
+public class hello {
+>>>>>>> c44382eb867e36f100cbf86cdb35a6f665102d20
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
@@ -66,3 +70,40 @@ public class Hello {
 
 
 }
+=======
+    public void mergeSort(){
+        int[] arr = {5, 3, 6, 2, 10};
+        mergeSort(arr, 0, arr.length - 1);
+        System.out.println("Sorted Array is: ");
+        printArray(arr);
+    }
+}
+/**
+ * Calculates the sum of two integers.
+ *
+ * @param a the first integer to add
+ * @param b the second integer to add
+ * @return the sum of the two integers
+ */
+public static int getSum(int a,int b){return a+b;}
+public class hello {
+	public static void main(String[] args) {
+		System.out.println("Hello, World!");
+	}
+
+	public 
+
+	static int getSum(int a, int b) {
+		return a + b;
+	}
+
+}/**
+ * Calculates the sum of two integers.
+ *
+ * @param a the first integer to add
+ * @param b the second integer to add
+ * @return the sum of the two integers
+ */
+public static int getSum(int a, int b) {
+>>>>>>> bef895f (new commit...)
+>>>>>>> c44382eb867e36f100cbf86cdb35a6f665102d20
