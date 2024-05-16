@@ -77,4 +77,3 @@ class TestCalcChoiceValidation(unittest.TestCase):
     def test_valid_choice_int(self):
         choice = 2
         self.assertTrue(str(choice) in ('1', '2', '3', '4'))
-

@@ -1,9 +1,8 @@
-import datetime
+<<<<<<< HEAD
+# print "Hello Jack"
+print("Hello Jack")
 
-print(datetime.datetime.now())
+def bubbleSort(arr):
+=======
 
-print(datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
-
-print(datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f"))
-
-print(datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f")[:-3])
+>>>>>>> 2c5a1fa824ef3d93c66337990111920187aeba58
