@@ -3,6 +3,12 @@ public class Hello {
         System.out.println("Hello, World!");
  	}
 
+	/**
+	 * Sorts the given integer array in ascending order using the bubble sort
+	 * algorithm.
+	 *
+	 * @param arr the array to be sorted
+	 */
 	public void bubbleSorter(int[] arr) {
 		for (int i = 0; i < arr.length - 1; i++) {
 			for (int j = 0; j < arr.length - 1 - i; j++) {
@@ -26,9 +32,5 @@ public class Hello {
 				j--;
 			}
 		}
-	}
-
-	public void heapSort(int[] arr){
-		for (int i = arr.length / 2
 	}
 }
