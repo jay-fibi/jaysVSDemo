@@ -27,4 +27,8 @@ public class Hello {
 			}
 		}
 	}
+
+	public void heapSort(int[] arr){
+		for (int i = arr.length / 2
+	}
 }
