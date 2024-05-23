@@ -13,15 +13,28 @@ greet("John")
 greet("Sarah")
 
 # Function with return value
+"""
+get_greeting: Returns a greeting with the given name.
+
+add: Adds two numbers and returns the sum.
+"""
+
+
 def get_greeting(name):
-  return "Hello " + name
+    greeting = "Hello " + name
+    return greeting
+
 
 print(get_greeting("David"))
 
+
 # Function with multiple parameters
 def add(num1, num2):
-  return num1 + num2
-  print(add(3, 5))
+    sum = num1 + num2
+    return sum
+
+
+print(add(3, 5)
 
 
 print(add(3, 5))
