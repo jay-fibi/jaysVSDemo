@@ -6,7 +6,8 @@ def bubble_sort(arr):
             if arr[j] > arr[j+1] :
                 arr[j], arr[j+1] = arr[j+1], arr[j]
 
-arr = [64, 34, 25, 12, 22, 11, 90]
+
+arr = [random.randint(0, 100) for i in range(7)]
 
 """Print each element in array arr to console after sorting.
 
