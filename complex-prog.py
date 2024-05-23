@@ -6,11 +6,18 @@ import sys
 
 # Todo class to represent a todo item 
 class Todo:
-  def __init__(self, name):
+    """Initializes a Task instance with the given name and sets its completed
+  state to False by default.
+
+  complete() sets the Task's completed state to True."""
+
+
+def __init__(self, name):
     self.name = name
     self.completed = False
 
-  def complete(self):
+
+def complete(self):
     self.completed = True
   
   def __repr__(self):
