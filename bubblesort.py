@@ -10,10 +10,16 @@ arr = [64, 34, 25, 12, 22, 11, 90]
 
 bubble_sort(arr)
 
-print ("Sorted array is:")
-for i in range(len(arr)):
-    print ("%d" %arr[i]),
+"""
+Prints the sorted and unsorted versions of the given array `arr`.
 
-print ("\n UnSorted array is:")
+Args:
+    arr (list): The array to be printed in sorted and unsorted order.
+"""
+print("Sorted array is:")
 for i in range(len(arr)):
-    print ("%d" %arr[i]),
+    print("%d" % arr[i]),
+
+print("\n UnSorted array is:")
+for i in range(len(arr)):
+    print("%d" % arr[i]),

@@ -1,12 +1,29 @@
-from datetime import datetime, timedelta
+from datetime import date, datetime
 
-presentday = datetime.now()
+today = date.today()
+print(today)
 
-yesterday = presentday - timedelta(1)
+now = datetime.now()
+print(now)
 
-tomorrow = presentday + timedelta(1)
+date_str = "2023-04-20"
+date_obj = datetime.strptime(date_str, "%Y-%m-%d")
+print("Date from string:", date_obj.date())
 
-print("Yesterday = ", yesterday.strftime('%d-%m-%Y'))
-print("Today = ", presentday.strftime('%d-%m-%Y'))
-print("Tomorrow = ", tomorrow.strftime('%d-%m-%Y'))
-print("Time now = ", presentday.strftime('%H:%M:%S'))
+from datetime import date, datetime, timedelta
+
+today = date.today()
+yesterday = today - timedelta(days=1)
+print("Yesterday's date:", yesterday)
+
+
+date1 = date(2023, 4, 15)
+date2 = date(2023, 5, 1)
+diff = date2 - date1
+print("Difference in days:", diff.days)
+
+formatted_date = today.strftime("%B %d, %Y")
+print("Formatted date:", formatted_date)
+
+formatted_time = now.strftime("%H:%M:%S")
+print("Formatted time:", formatted_time)
