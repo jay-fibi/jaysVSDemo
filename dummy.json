@@ -1,0 +1,12 @@
+"cody.contextFilters": {
+    "exclude": [
+        {
+            "repoNamePattern": "^github\\.com\\/sourcegraph\\/cody"
+        }
+    ],
+    "include": [
+        {
+            "repoNamePattern": "^github\\.com\\/sourcegraph\\/.+"
+        }
+    ]
+}
