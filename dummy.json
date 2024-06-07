@@ -10,3 +10,19 @@
         }
     ]
 }
+
+"cody.contextFilters": {
+    "exclude": [
+        {
+            "repoNamePattern": "^github\\.com\\/sourcegraph\\/sourcegraph"
+        }
+    ]
+}
+
+"cody.contextFilters": {
+    "include": [
+        {
+            "repoNamePattern": "^github\\.com\\/sourcegraph\\/sourcegraph"
+        }
+    ]
+}

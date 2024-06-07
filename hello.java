@@ -1,34 +1,63 @@
-public class hello{
-    public class BubbleSort {
-        public static void bubbleSort(int[] arr) {
-            int n = arr.length;
-            boolean swapped;
-            /**
-             * Performs a single pass of the bubble sort algorithm on the given array.
-             * This method compares adjacent elements and swaps them if they are in the wrong order.
-             * The method continues to pass through the array until no swaps are needed, indicating the array is sorted.
-             *
-             * @param arr the array to be sorted
-             * @param n the length of the array
-             */
-            for (int i = 0; i < n - 1; i++) {
-                swapped = false;
-                for (int j = 0; j < n - 1 - i; j++) {
-                    if (arr[j] > arr[j + 1]) {
-                        // Swap arr[j] and arr[j + 1]
-                        int temp = arr[j];
-                        arr[j] = arr[j + 1];
-                        arr[j + 1] = temp;
-                        swapped = true;
-                    }
+public class hello {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+
+    // print Good night
+    System.out.println("Good night");
+
+    // print Hello
+    System.out.print("Hello");
+
+    public void bubbleSort(int[] arr) {
+        int n = arr.length;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n - i - 1; j++) {
+                if (arr[j] > arr[j + 1]) {
+                    int temp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = temp;
                 }
-                // If no two elements were swapped by inner loop, then break
-                if (!swapped) break;
             }
         }
+    }
 
-        public static void main(String[] args) {
-            int[] arr = {64, 34, 25, 12, 22, 11, 90};
-            System.out.println("Unsorted array:");
+    public void insertionSort(int[] arr) {
+        int n = arr.length;
+        for (int i = 1; i < n; i++) {
+            int key = arr[i];
+            int j = i - 1;
+            while (j >= 0 && arr[j] > key) {
+                arr[j + 1] = arr[j];
+                j = j - 1;
+                arr[j + 1] = key;
+                System.out.println(Arrays.toString(arr));
+                // print Hello
+                System.out.print("Hello");
+                // print Good night
+                System.out.println("Good night");
+                // print Good night
+                System.out.println("Good night");
+            }
         }
+    }
+
+    /**
+     * Sorts the given array in ascending order using the selection sort algorithm.
+     *
+     * @param arr the array to be sorted
+     */
+    public void selectionSort(int[] arr) {
+        int n = arr.length;
+        for (int i = 0; i < n - 1; i++) {
+            int min_idx = i;
+            for (int j = i + 1; j < n; j++) {
+                if (arr[j] >= arr[min_idx]) {
+                    continue;
+                }
+                min_idx = j;
+
+            }
+        }
+    }
 }

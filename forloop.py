@@ -14,10 +14,15 @@ for i in range(1, 11):
     print(i)
 
 # Print numbers from 1 to 10 stopping at 5
-for i in range(1, 11):
+
+
+i = 1
+while i <= 10:
     if i > 5:
         break
     print(i)
+    i += 1
+
 
 # Print numbers from 1 to 10 and t
 

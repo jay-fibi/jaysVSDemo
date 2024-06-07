@@ -30,12 +30,16 @@ class TodoList:
   
   Creates an empty todos list to store todo items.
   """
+
+
 def __init__(self):
     self.todos = []
-  def add(self, name):
+
+def add(self, name):
     self.todos.append(Todo(name))
 
-  def complete(self, index):
+
+def complete(self, index):
     self.todos[index].complete()
 
   def __repr__(self):

@@ -65,14 +65,13 @@ from unittest.mock import patch
 from fibo import fibonacci  # Assuming fibonacci function is in fibo.py
 
 class TestFibonacciInput(unittest.TestCase):
-
     @patch('builtins.input', side_effect=['3'])
     @patch('builtins.print')
     def test_positive_input(self, mock_print, mock_input):
         with self.assertRaises(SystemExit):
+
             fibonacci(int(input("How many terms? ")))
         mock_print.assert_called_with("Invalid input. Please enter an integer.")
-
     @patch('builtins.input', side_effect=['-1', '5'])
     @patch('builtins.print')
     def test_first_negative_then_positive(self, mock_print, mock_input):
@@ -91,8 +90,10 @@ class TestFibonacciInput(unittest.TestCase):
     @patch('builtins.input', side_effect=['abc', '5'])
     @patch('builtins.print')
     def test_first_non_integer_then_positive(self, mock_print, mock_input):
+
         with self.assertRaises(SystemExit):
             while True:
+
                 try:
                     num_terms = int(input("How many terms? "))
                     if num_terms < 0:
