@@ -1,8 +1,24 @@
-<<<<<<< HEAD
-# print "Hello Jack"
-print("Hello Jack")
+import unittest
+from datetime import datetime, timedelta
+from date import presentday, yesterday, tomorrow
 
-def bubbleSort(arr):
-=======
+class TestDate(unittest.TestCase):
 
->>>>>>> 2c5a1fa824ef3d93c66337990111920187aeba58
+    def test_yesterday(self):
+        expected = presentday - timedelta(days=1)
+        self.assertEqual(yesterday, expected)
+
+    def test_tomorrow(self):
+        expected = presentday + timedelta(days=1) 
+        self.assertEqual(tomorrow, expected)
+
+    def test_presentday_format(self):
+        expected = datetime.now().strftime('%d-%m-%Y')
+        self.assertEqual(presentday.strftime('%d-%m-%Y'), expected)
+
+    def test_time_format(self):
+        expected = datetime.now().strftime('%H:%M:%S')
+        self.assertEqual(presentday.strftime('%H:%M:%S'), expected)
+
+if __name__ == '__main__':
+    unittest.main()
