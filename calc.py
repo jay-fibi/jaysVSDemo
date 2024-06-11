@@ -29,7 +29,7 @@ while True:
             num1 = float(input("Enter first number: "))
             num2 = float(input("Enter second number: "))
         except ValueError:
-            print("Invalid input. You simply cannot enter anything else than number...")
+            print("Invalid input. Please enter numbers only.")
             continue
 
 ""
