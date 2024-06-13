@@ -3,6 +3,11 @@ from datetime import date, datetime
 today = date.today()
 print(today)
 
+from datetime import date, datetime, timedelta
+
+today = date.today()
+print(today)
+
 now = datetime.now()
 print(now)
 
@@ -10,9 +15,6 @@ date_str = "2023-04-20"
 date_obj = datetime.strptime(date_str, "%Y-%m-%d")
 print("Date from string:", date_obj.date())
 
-from datetime import date, datetime, timedelta
-
-today = date.today()
 yesterday = today - timedelta(days=1)
 print("Yesterday's date:", yesterday)
 
