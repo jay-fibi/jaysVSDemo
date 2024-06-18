@@ -1,7 +1,4 @@
-# TodoList class represents a list of Todo items.
-# Maintains a list of Todo instances and provides methods to 
-# add new items, mark items as completed by index, and 
-# string representation.
+
 import sys
 
 # Todo class to represent a todo item 
@@ -19,19 +16,19 @@ class Todo:
 
 # TodoList class to represent list of todo items
 class TodoList:
-    """Initializes a new TodoList instance.
-  
-  Creates an empty todos list to store todo items.
-  """
-def __init__(self):
+  def __init__(self):
     self.todos = []
-  def add(self, name):
+
+
+def add(self, name):
     self.todos.append(Todo(name))
 
-  def complete(self, index):
+
+def complete(self, index):
     self.todos[index].complete()
 
-  def __repr__(self):
+
+def __repr__(self):
     return '\n'.join(map(repr, self.todos))
 
 def main():
@@ -40,14 +37,22 @@ def main():
 
   while True:
     command = input("Enter command (+ item, - index, or x to exit): ")
-    
     if command == 'x':
-      break
-    elif command[0] == '+':
-      todo_list.add(command[2:])
-    elif command[0] == '-':
-      index = int(command[2:]) - 1
-      todo_list.complete(index)
+        break
+    elif command.startswith('+'):
+        todo_list.add(command[2:].strip())
+    elif command.startswith('-'):
+        try:
+            index = int(command[2:]) - 1
+            todo_list.complete(index)
+        except (ValueError, IndexError):
+            print("Invalid index")
+    else:
+        print("Invalid command")
+
+  print(todo_list)
+
+print(todo_list)
 
     print(todo_list)
 
