@@ -1,16 +1,4 @@
-# TodoList class represents a list of Todo items.
-# Maintains a list of Todo instances and provides methods to 
-# add new items, mark items as completed by index, and 
-# string representation.
-import sys
-
-# Todo class to represent a todo item 
 class Todo:
-    """Initializes a Task instance with the given name and sets its completed
-  state to False by default.
-
-  complete() sets the Task's completed state to True."""
-
 
 def __init__(self, name):
     self.name = name

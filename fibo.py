@@ -11,20 +11,43 @@
         return nth_fib
 
     num_terms = 0
+    while True:
+    try:
+    while True:
+        try:
+        num_terms = int(input("How many terms? "))
+    except ValueError:
+        print("Invalid input. Please enter an integer.")
+
+    except ValueError:
+        print("Invalid input. Please enter an integer.")
+    else:
+        if num_terms > 0:
+            break
+        else:
+            print("Number of terms must be > 0")
+
+
+
+    while num_terms <= 0:
+        print("Number of terms must be > 0")
+        num_terms = int(input("How many terms? "))
+except ValueError:
+    print("Invalid input. Please enter an integer.")
+
     while num_terms <= 0:
         try:
             num_terms = int(input("How many terms? "))
-            if num_terms <= 0:
-                print("Number of terms must be > 0")
         except ValueError:
             print("Invalid input. Please enter an integer.")
 
-    fib_sequence = [str(fibonacci(i)) for i in range(num_terms)]
-    print("Fibonacci sequence:")
-    print(", ".join(fib_sequence))
-fib_sequence = [str(fibonacci(i)) for i in range(num_terms)]
-print("Fibonacci sequence:")  
-print(", ".join(fib_sequence))
+
+    except ValueError:
+        print("Invalid input. Please enter an integer.")
+
+    for i in range(num_terms):
+    print(fibonacci(i), end=", ")
+print("...")
 
 while True:
     try:
