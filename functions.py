@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Define a function
 def greet(name):
   print("Hello", name)
@@ -42,40 +42,57 @@ def factorial(x):
 print(factorial(5))
 
 def fibonacci(x):
+    """
+    Calculate the Fibonacci number at position x using recursion.
+
+    Args:
+        x (int): The position in the Fibonacci sequence.
+
+    Returns:
+        int: The Fibonacci number at position x.
+
+    Note:
+        This function uses a recursive approach, which may be inefficient for large values of x.
+    """
     if x == 0 or x == 1:
         return 1
     else:
         return fibonacci(x - 1) + fibonacci(x - 2)
 
 def fibonacci_iterative(x):
+    """
+    Calculate the Fibonacci number at position x using an iterative approach.
+
+    Args:
+        x (int): The position in the Fibonacci sequence.
+
+    Returns:
+        int: The Fibonacci number at position x.
+
+    Note:
+        This function uses an iterative approach, which is more efficient for large values of x.
+    """
     a, b = 0, 1
     for i in range(x):
         a, b = b, a + b
     return a
 def fibonacci_iterative(x: int) -> int:
-    """
-    Calculate the x-th Fibonacci number using an iterative approach.
 
-    Args:
-        x (int): The position of the Fibonacci number to calculate.
-
-    Returns:
-        int: The x-th Fibonacci number.
-    """
     prev, curr = 0, 1
-    for _ in range(x):
+     for _ in range(x):
         prev, curr = curr, prev + curr
     return prev
-=======
+
 public class hello{
   public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
-  
-  public static void print_char(String my_string) {
-        for (int i = 0; i < my_string.length(); i++) {
-            System.out.print(my_string.charAt(i));
-        }
+
+public static void print_char(String my_string) {
+    // Iterate through each character in the string
+    for (int i = 0; i < my_string.length(); i++) {
+        // Print the current character without moving to a new line
+        System.out.print(my_string.charAt(i));
     }
   
   public static void print_char_empty(String my_string) {
@@ -94,4 +111,3 @@ public class hello{
     }
   }
 }
->>>>>>> bef895f (new commit...)

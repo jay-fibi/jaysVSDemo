@@ -13,7 +13,26 @@ for i in range(1, 11):
         continue
     print(i)
 
-# Print numbers from 1 to 10 stopping at 5
+# Print numbers from 1 to 10
+for i in range(1, 11):
+    print(i)
+
+# Print each character in a string
+for char in "Hello World":
+    print(char)
+
+# Print numbers from 1 to 10 except 5
+for i in range(1, 11):
+    if i != 5:
+        print(i)
+
+# Print numbers from 1 to 5
+for i in range(1, 6):
+    print(i)
+
+# Print numbers from 1 to 1000
+for i in range(1, 1001):
+    print(i)
 for i in range(1, 11):
     if i > 5:
         break

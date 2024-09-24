@@ -57,3 +57,41 @@ class TestWhileLoop(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+    def test_skip_both_e_and_s(self):
+        a = "testes"
+        expected_output = ["Current Letter : t", "Current Letter : t"]
+        with self.captureStdout() as output:
+            i = 0
+            while i < len(a):
+                if a[i] == 'e' and a[i] == 's':
+                    i += 1
+                    continue
+                print('Current Letter :', a[i])
+                i += 1
+        self.assertEqual(output.getvalue().strip().split("\n"), expected_output)
+
+    def test_skip_e_only(self):
+        a = "testes"
+        expected_output = ["Current Letter : t", "Current Letter : t", "Current Letter : t"]
+        with self.captureStdout() as output:
+            i = 0
+            while i < len(a):
+                if a[i] == 'e':
+                    i += 1
+                    continue
+                print('Current Letter :', a[i])
+                i += 1
+        self.assertEqual(output.getvalue().strip().split("\n"), expected_output)
+
+    def test_skip_s_only(self):
+        a = "testes"
+        expected_output = ["Current Letter : t", "Current Letter : e", "Current Letter : t", "Current Letter : e"]
+        with self.captureStdout() as output:
+            i = 0
+            while i < len(a):
+                if a[i] == 's':
+                    i += 1
+                    continue
+                print('Current Letter :', a[i])
+                i += 1
+        self.assertEqual(output.getvalue().strip().split("\n"), expected_output)

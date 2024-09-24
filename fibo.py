@@ -22,9 +22,9 @@
     fib_sequence = [str(fibonacci(i)) for i in range(num_terms)]
     print("Fibonacci sequence:")
     print(", ".join(fib_sequence))
-fib_sequence = [str(fibonacci(i)) for i in range(num_terms)]
-print("Fibonacci sequence:")  
-print(", ".join(fib_sequence))
+    fib_sequence = [str(fibonacci(i)) for i in range(num_terms)]
+    print("Fibonacci sequence:")
+    print(", ".join(fib_sequence))
 
 while True:
     try:
