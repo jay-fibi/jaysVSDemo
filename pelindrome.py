@@ -8,14 +8,17 @@ def is_palindrome(num):
         
     return num == reverse_num
 
+"""
+Iterates through the range of integers from 1 to 999 (inclusive) and performs various operations on each number.
+"""
 for i in range(1, 1000):
     if is_palindrome(i):
-        print(i)
-        print(i * i)
-        output = i * filter(i)
-        print(output)
-        print(output + 1)
-        a = i * i + 1
-        print(a)
-        #print hello world
-        print("hello world")
+                if is_palindrome(i):
+            print(i)
+            print(i * i)
+            output = i * i
+            print(output)
+            print(output + 1)
+            a = i * i + 1
+            print(a)
+            print("hello world")

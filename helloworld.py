@@ -1,8 +1,15 @@
-<<<<<<< HEAD
-# print "Hello Jack"
-print("Hello Jack")
+def add(a, b):
+    return a + b
 
-def bubbleSort(arr):
-=======
+def increment(number, by=1):
+    return number + by
 
->>>>>>> 2c5a1fa824ef3d93c66337990111920187aeba58
+def test_add_positive_numbers():
+    """Test that it can add two positive numbers."""
+    assert add(10, 5) == 15
+
+
+
+
+
+

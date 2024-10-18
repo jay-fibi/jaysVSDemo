@@ -13,9 +13,9 @@ for i in range(1, 11):
         continue
     print(i)
 
+
 # Print numbers from 1 to 10 stopping at 5
-for i in range(1, 11):
-    if i > 5:
+for i in range(1, 11)for i in range(1, 11):    if i > 5:
         break
     print(i)
 
@@ -25,3 +25,10 @@ for i in range(1, 11):
     for i in range(1, 1001):
         print(i)
 
+# Loop through numbers from 1 to 10 and print each number except 5
+for i in range(1, 11):
+    if i != 5:
+        print(i)
+
+for i in range(1, 11):
+    print(i)

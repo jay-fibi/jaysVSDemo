@@ -3,17 +3,17 @@ def bubble_sort(arr):
 
     for i in range(n):
         for j in range(0, n-i-1):
-            if arr[j] > arr[j+1] :
+            if arr[j] > arr[j+1]:
                 arr[j], arr[j+1] = arr[j+1], arr[j]
 
 arr = [64, 34, 25, 12, 22, 11, 90]
 
 bubble_sort(arr)
 
-print ("Sorted array is:")
+print("Sorted array is:")
 for i in range(len(arr)):
-    print ("%d" %arr[i]),
+    print("%d" % arr[i], end=" ")
 
-print ("\n UnSorted array is:")
-for i in range(len(arr)):
-    print ("%d" %arr[i]),
+unsorted_arr = [64, 34, 25, 12, 22, 11, 90]
+for i in range(len(unsorted_arr)):
+    print("%d" % unsorted_arr[i], end=" ")

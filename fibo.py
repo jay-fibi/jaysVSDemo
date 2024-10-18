@@ -12,7 +12,7 @@
 
     num_terms = 0
     while num_terms <= 0:
-        try:
+        pass        try:
             num_terms = int(input("How many terms? "))
             if num_terms <= 0:
                 print("Number of terms must be > 0")

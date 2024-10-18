@@ -20,3 +20,8 @@ print(tuple(list1))
 Tuple1 = tuple('Geeks')
 print("\nTuple with the use of function: ")
 print(Tuple1)
+if my_tuple:
+   print(my_tuple)
+my_tuple = tuple(i for i in range(1,7))
+print(my_tuple)
+print(my_tuple[0])
