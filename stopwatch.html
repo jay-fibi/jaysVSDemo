@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Speech Transcription Stopwatch</title>
+  <style>
+    .container {
+      text-align: center;
+      margin-top: 50px;
+    }
+
+    #transcription {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Speech Transcription Stopwatch</h1>
+    <button id="startBtn">Start</button>
+    <div id="stopwatch">00:00:00</div>
+    <div id="transcription"></div>
+  </div>
+
+  <script>
+    const startBtn = document.getElementById('startBtn');
+    const stopwatchEl = document.getElementById('stopwatch');
+    const transcriptionEl = document.getElementById('transcription');
+
+    let recognition;
+    let startTime;
+    let timerInterval;
+
+    startBtn.addEventListener('click', startTranscription);
+
+    function startTranscription() {
+      startBtn.disabled = true;
+      startTime = Date.now();
+      timerInterval = setInterval(updateStopwatch, 1000);
+
+      recognition = new webkitSpeechRecognition();
+      recognition.continuous = true;
+      recognition.interimResults = true;
+      recognition.onresult = handleRecognitionResult;
+      recognition.start();
+    }
+
+    function updateStopwatch() {
+      const elapsedTime = Date.now() - startTime;
+      const seconds = Math.floor((elapsedTime / 1000) % 60);
+      const minutes = Math.floor((elapsedTime / 1000 / 60) % 60);
+      const hours = Math.floor((elapsedTime / 1000 / 60 / 60) % 24);
+
+      stopwatchEl.textContent = `${padZero(hours)}:${padZero(minutes)}:${padZero(seconds)}`;
+    }
+
+    function padZero(num) {
+      return num.toString().padStart(2, '0');
+    }
+
+    function handleRecognitionResult(event) {
+      let interimTranscript = '';
+      let finalTranscript = '';
+
+      for (let i = event.resultIndex; i < event.results.length; i++) {
+        const transcript = event.results[i][0].transcript;
+        if (event.results[i].isFinal) {
+          finalTranscript += transcript + ' ';
+        } else {
+          interimTranscript += transcript;
+        }
+      }
+
+      transcriptionEl.innerHTML = finalTranscript + '<span style="color: gray;">' + interimTranscript + '</span>';
+    }
+  </script>
+</body>
+</html>

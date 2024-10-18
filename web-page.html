@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login Form and Time</title>
+  <style>
+    body {
+      background-image: url("https://picsum.photos/1920/1080"); /* Placeholder image from Picsum */
+      background-size: cover;
+      background-repeat: no-repeat;
+      font-family: sans-serif;
+      display: flex;
+      min-height: 100vh;
+      background-color: #f0f0f0; /* Main Color */
+      color: #333333; /* Secondary Color */
+      justify-content: center; /* Center content horizontally */
+      align-items: center; /* Center content vertically */
+    }
+
+    form {
+      background-color: rgba(255, 255, 255, 0.5); /* Slightly darker shade of Main Color */
+      padding: 20px;
+      border-radius: 50px;
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      opacity: 0.7;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 5px;
+      font-weight: bold;
+    }
+
+    input[type="text"],
+    input[type="password"] {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      box-sizing: border-box;
+    }
+
+    input[type="submit"] {
+      background-color: #333333; /* Secondary Color */
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 50px;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover {
+      background-color: #222222; /* Slightly darker shade of Secondary Color */
+    }
+
+    p {
+      text-align: center;
+      font-size: 2em; /* Big font size */
+      margin-top: 20px;
+      color: rgba(255, 255, 255, 0.5); /* Text color */
+      background-color: black; /* Transparent white */
+      padding: 10px 20px; /* Add padding for better visual separation */
+      border-radius: 50px; /* Round the corners */
+      opacity: 0.5; /* Set opacity to 50% */
+      position: relative; /* Necessary for z-index to work */
+      z-index: -1; /* Set z-index to negative */
+    }
+  </style>
+</head>
+<body>
+
+
+  <form>
+    <label for="username">Username:</label><br>
+    <input type="text" id="username" name="username"><br>
+
+    <label for="password">Password:</label><br>
+    <input type="password" id="password" name="password"><br><br>
+
+    <input type="submit" value="Login">
+  </form>
+
+  <p>Current time: <span id="currentTime"></span></p>
+
+  <script>
+    function displayTime() {
+      const now = new Date();
+      const timeString = now.toLocaleTimeString();
+      document.getElementById("currentTime").textContent = timeString;
+    }
+
+    setInterval(displayTime, 1000); // Update time every second
+    displayTime(); // Display time initially
+  </script>
+
+</body>
+</html>
