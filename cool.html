@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Login Screen</title>
+    <style>
+      body {
+        background-image: url("https://example.com/path/to/your/image.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: 0;
+      }
+      .login-box {
+        width: 300px;
+        padding: 20px;
+        background-color: rgba(255, 255, 255, 0.5);
+        color: #000;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+      }
+      .login-box h1 {
+        text-align: center;
+        color: black;
+        font-family: Arial, sans-serif;
+        margin-bottom: 20px;
+      }
+      .login-box input[type="text"],
+      .login-box input[type="password"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+        font-size: 16px;
+        font-family: Arial, sans-serif;
+        color: black;
+      }
+      .login-box input[type="submit"] {
+        width: 100%;
+        padding: 10px;
+        background-color: yellow;
+        color: black;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-family: Arial, sans-serif;
+      }
+      .login-box input[type="submit"]:hover {
+        background-color: #fff;
+        color: yellow;
+        border: 1px solid yellow;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="login-box">
+      <h1>Login</h1>
+      <form>
+        <input type="text" placeholder="Username" />
+        <input type="password" placeholder="Password" />
+        <input type="submit" value="Login" />
+      </form>
+    </div>
+  </body>
+</html>
