@@ -1,17 +1,15 @@
-print("Hello World")
-
-def addition(a, b):
+def add(a, b):
     return a + b
 
-def multiplication(a, b):
-    """
-    Multiplies two numbers and returns their product.
+def increment(number, by=1):
+    return number + by
 
-    Args:
-        a: First number to multiply
-        b: Second number to multiply
+def test_add_positive_numbers():
+    """Test that it can add two positive numbers."""
+    assert add(10, 5) == 15
 
-    Returns:
-        The product of a and b
-    """
-    return a * b
+
+
+
+
+

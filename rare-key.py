@@ -3,7 +3,6 @@
 # Using loop + dictionary comprehension
 
 # initializing dictionary
-# test_dict = {'gfg': [7, 6, 3],
 test_dict = {'gfg': [7, 6, 3], 
 			'is': [2, 10, 3], 
 			'best': [19, 4]}
