@@ -1,8 +1,17 @@
-<<<<<<< HEAD
-# print "Hello Jack"
-print("Hello Jack")
+print("Hello World")
 
-def bubbleSort(arr):
-=======
+def addition(a, b):
+    return a + b
 
->>>>>>> 2c5a1fa824ef3d93c66337990111920187aeba58
+def multiplication(a, b):
+    """
+    Multiplies two numbers and returns their product.
+
+    Args:
+        a: First number to multiply
+        b: Second number to multiply
+
+    Returns:
+        The product of a and b
+    """
+    return a * b

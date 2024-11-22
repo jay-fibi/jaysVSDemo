@@ -5,8 +5,18 @@
 import sys
 
 # Todo class to represent a todo item 
-class Todo:
-  def __init__(self, name):
+<class Todo:
+    """
+  Initializes a new Todo instance with the given name.
+
+  Args:
+      name (str): The name of the Todo item.
+
+  Attributes:
+      name (str): The name of the Todo item.
+      completed (bool): Indicates whether the Todo item has been completed.
+  """
+def __init__(self, name):
     self.name = name
     self.completed = False
 
@@ -19,12 +29,10 @@ class Todo:
 
 # TodoList class to represent list of todo items
 class TodoList:
-    """Initializes a new TodoList instance.
-  
-  Creates an empty todos list to store todo items.
-  """
-def __init__(self):
+  def __init__(self):
     self.todos = []
+    self.todos = []
+
   def add(self, name):
     self.todos.append(Todo(name))
 
@@ -33,16 +41,6 @@ def __init__(self):
 
   def __repr__(self):
     return '\n'.join(map(repr, self.todos))
-
-def main():
-
-  todo_list = TodoList()
-
-  while True:
-    command = input("Enter command (+ item, - index, or x to exit): ")
-    
-    if command == 'x':
-      break
     elif command[0] == '+':
       todo_list.add(command[2:])
     elif command[0] == '-':

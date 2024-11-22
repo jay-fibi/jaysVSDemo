@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+def fibonacci_iterative(x):
+    a, b = 0, 1
+    for _ in range(x):
+        a, b = b, a + b
+    return a
+
+print(fibonacci_iterative(5))
 # Define a function
 def greet(name):
   print("Hello", name)
@@ -66,7 +72,7 @@ def fibonacci_iterative(x: int) -> int:
     for _ in range(x):
         prev, curr = curr, prev + curr
     return prev
-=======
+
 public class hello{
   public static void main(String[] args) {
         System.out.println("Hello, World!");

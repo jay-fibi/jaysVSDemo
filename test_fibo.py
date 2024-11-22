@@ -18,4 +18,15 @@ class TestFibonacci(unittest.TestCase):
 
     def test_large_input(self):
         self.assertEqual(fibonacci(30), 832040)
+    def test_non_integer_input(self):
+        """
+        Test that the fibonacci function raises a TypeError when given a non-integer input.
+        """
+        self.assertRaises(TypeError, fibonacci, 3.14)
+        self.assertRaises(TypeError, fibonacci, "5")
+        self.assertRaises(TypeError, fibonacci, [1, 2, 3])
+        self.assertRaises(TypeError, fibonacci, {"n": 10})
 
+
+
+<C<TES<TESTFIL<TESTFILE7<TESTFILE704<T<TES<TESTFIL<TESTFILE7<TESTFILE704

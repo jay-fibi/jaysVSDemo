@@ -1,0 +1,13 @@
+"""
+This module demonstrates various uses of for loops in Python.
+
+It includes examples of:
+- Printing numbers from 1 to 10
+- Iterating over characters in a string
+- Using 'continue' to skip an iteration
+- Using 'break' to exit a loop early
+- Printing numbers from 1 to 1000
+
+Note: The last example (printing 1 to 1000) is indented incorrectly
+and will not run as part of the module's main execution.
+"""

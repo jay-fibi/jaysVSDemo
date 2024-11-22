@@ -18,7 +18,8 @@ print("The sum is:", sum)
 print(f"The sum of entered numbers is: {sum}")
 
 def mergeSort(arr):
-    if len(arr) > 1:    mid = len(arr) // 2
+        if len(arr) > 1:
+            mid = len(arr) // 2
     L = arr[:mid]
     R = arr[mid:]
 

@@ -49,6 +49,12 @@ class TestFibonacci(unittest.TestCase):
         self.assertRaises(ValueError, fibonacci, -1)
 
     def test_cached_values(self):
+        """
+        Tests that the fibonacci function correctly caches calculated values.
+        """
+        """
+        Tests that the fibonacci function correctly caches calculated values.
+        """
         # Check some cached values
         self.assertEqual(fibonacci(2), 1) 
         self.assertEqual(fibonacci(3), 2)
@@ -88,6 +94,7 @@ class TestFibonacciInput(unittest.TestCase):
     @patch('builtins.input', side_effect=['abc', '5'])
     @patch('builtins.print')
     def test_first_non_integer_then_positive(self, mock_print, mock_input):
+
         with self.assertRaises(SystemExit):
             while True:
                 try:

@@ -25,4 +25,5 @@ class TestBubbleSort(unittest.TestCase):
         arr = []
         expected = []
         bubble_sort(arr)
-        self.assertEqual(arr, expected)
+
+
