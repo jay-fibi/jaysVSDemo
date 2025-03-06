@@ -1,28 +1,18 @@
-public class hello {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
+public class hello{
+    public static void main(String[] args){
+        System.out.println("Hello World");
     }
 
-    public void selectionSort(int[] arr) {
-        int n = arr.length;
-        for (int i = 0; i < n - 1; i++) {
-            int minIndex = i;
-            for (int j = i + 1; j < n; j++) {
-                if (arr[j] < arr[minIndex]) {
-                    minIndex = j;
-                }
-            }
-            int temp = arr[minIndex];
-            arr[minIndex] = arr[i];
-            arr[i] = temp;
-        }
-    }
+    // print Jack is Back
+    System.out.println("Jack is Back");
 
-    public void bubbleSort(int[] arr) {
-        int n = arr.length;
-        for (int i = 0; i < n - 1; i++) {
-            for (int j = 0; j < n - i - 1; j++) {
-                if (arr[j] > arr[j + 1]) {
+    // print Jay is a good person..!!
+    System.out.println("Jay is a good person..!!");
+
+    public void bubbleSortt(int[] arr){
+        for(int i = 0; i < arr.length; i++){
+            for(int j = 0; j < arr.length - i - 1; j++){
+                if(arr[j] > arr[j + 1]){
                     int temp = arr[j];
                     arr[j] = arr[j + 1];
                     arr[j + 1] = temp;
@@ -30,16 +20,23 @@ public class hello {
             }
         }
     }
-    public void insertionSort(int[] arr) {
-        int n = arr.length;
-        for (int i = 1; i < n; i++) {
-            int key = arr[i];
-            int j = i - 1;
-            while (j >= 0 && arr[j] > key) {
-                arr[j + 1] = arr[j];
-                j--;
+
+    /**
+         * Sorts an integer array using the selection sort algorithm.
+         * 
+         * @param arr The input array to be sorted in-place
+         */
+    public void selectionSort(int[] arr){
+        for(int i = 0; i < arr.length; i++){
+            int minIndex = i;
+            for(int j = i + 1; j < arr.length; j++){
+                if(arr[j] < arr[minIndex]){
+                    minIndex = j;
+                }
             }
-            arr[j + 1] = key;
+            int temp = arr[i];
+            arr[i] = arr[minIndex];
+            arr[minIndex] = temp;
         }
     }
 }
