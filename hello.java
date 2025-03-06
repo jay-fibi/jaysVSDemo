@@ -7,8 +7,9 @@ public class hello{
     System.out.println("Jack is Back");
 
     // print Jay is a good person..!!
-    System.out.println("Jay is a good person..!!");
-
+    public void printMessage() {
+        System.out.println("Jay is a good person..!!");
+    }
     public void bubbleSortt(int[] arr){
         for(int i = 0; i < arr.length; i++){
             for(int j = 0; j < arr.length - i - 1; j++){
