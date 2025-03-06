@@ -7,7 +7,7 @@ public class hello{
     System.out.println("Jack is Back");
 
     // print Jay is a good person..!!
-    System.out.println("Jay is a good person..!!");
+    System.out.println("Jay is a good person..!!")
 
     public void bubbleSortt(int[] arr){
         for(int i = 0; i < arr.length; i++){
@@ -15,7 +15,7 @@ public class hello{
                 if(arr[j] > arr[j + 1]){
                     int temp = arr[j];
                     arr[j] = arr[j + 1];
-                    arr[j + 1] = temp;
+                    arr[j + 1] = temp
                 }
             }
         }
