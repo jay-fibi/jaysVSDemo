@@ -23,8 +23,9 @@ for char in "Hello World":
 
 # Print numbers from 1 to 10 except 5
 for i in range(1, 11):
-    if i != 5:
-        print(i)
+    if i == 5:
+        continue
+    print(i)
 
 # Print numbers from 1 to 5
 for i in range(1, 6):
