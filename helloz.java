@@ -1,67 +1,80 @@
 public class helloz {
     public static void main(String[] args) {
-        System.out.println("hello world");
+        System.out.println("Hello, World!");
     }
 
     // print Jack is Back
     System.out.println("Jack is Back");
 
-    // print Jay is a nice person..!!
-    System.out.println("Jay is a nice person..!!");
+    System.out.println("Hello, World! Jay hello");
 
-    import org.junit.Test;
-    import static org.junit.Assert.*;
-    
-    public class BubbleSortTest {
-        @Test
-        public void testBubbleSort() {
-            helloz sorter = new helloz();
-            
-            // Test case 1: Normal unsorted array
-            int[] arr1 = {64, 34, 25, 12, 22, 11, 90};
-            sorter.bubbleSort(arr1);
-            int[] expected1 = {11, 12, 22, 25, 34, 64, 90};
-            assertArrayEquals(expected1, arr1);
-            
-            // Test case 2: Already sorted array
-            int[] arr2 = {1, 2, 3, 4, 5};
-            sorter.bubbleSort(arr2);
-            int[] expected2 = {1, 2, 3, 4, 5};
-            assertArrayEquals(expected2, arr2);
-            
-            // Test case 3: Reverse sorted array
-            int[] arr3 = {5, 4, 3, 2, 1};
-            sorter.bubbleSort(arr3);
-            int[] expected3 = {1, 2, 3, 4, 5};
-            assertArrayEquals(expected3, arr3);
-            
-            // Test case 4: Array with duplicate elements
-            int[] arr4 = {3, 1, 4, 1, 5, 9, 2, 6, 5};
-            sorter.bubbleSort(arr4);
-            int[] expected4 = {1, 1, 2, 3, 4, 5, 5, 6, 9};
-            assertArrayEquals(expected4, arr4);
-            
-            // Test case 5: Empty array
-            int[] arr5 = {};
-            sorter.bubbleSort(arr5);
-            int[] expected5 = {};
-            assertArrayEquals(expected5, arr5);
+    /**
+         * Sorts an array in ascending order using the insertion sort algorithm.
+         * 
+         * @param arr The array to be sorted
+         */
+    /**
+     * Sorts an array in ascending order using the insertion sort algorithm.
+     * This implementation iterates through the array and gradually builds a sorted portion
+     * by inserting each element into its correct position.
+     * 
+     * @param arr The array to be sorted
+     * @author Cody AI
+     */
+    public void insertionSort(int[] arr) {
+        for (int i = 1; i < arr.length; i++) {
+            int key = arr[i];
+            int j = i - 1;
+            while (j >= 0 && arr[j] > key) {
+                arr[j + 1] = arr[j];
+                j = j - 1;
+            }
+            arr[j + 1] = key;
         }
+
     }
-    public void bubbleSort(int[] arring) {
-        int n = arring.length;
+    public void bubbleSort(int[] arr) {
+        int n = arr.length;
         for (int i = 0; i < n - 1; i++) {
             for (int j = 0; j < n - i - 1; j++) {
-                if (arring[j] > arring[j + 1]) {
-                    int temp = arring[j];
-                    arring[j] = arring[j + 1];
-                    arring[j + 1] = temp;
+                if (arr[j] > arr[j + 1]) {
+                    // Swap arr[j] and arr[j+1]
+                    int temp = arr[j]; // Store the current element in a temporary variable
+                    arr[j] = arr[j + 1]; // Replace the current element with the next element
+                    arr[j + 1] = temp; // Place the stored element in the next position
                 }
             }
         }
     }
 
-    public String cool(){
-        return "Jay is a cool guy";
+    /**
+         * Recursively sorts an array using the merge sort algorithm.
+         * 
+         * @param arr The array to be sorted
+         * @param l The left index of the array or subarray
+         * @param r The right index of the array or subarray
+         */
+    public void mergeSort(int[] arr, int l, int r) {
+        if (l < r) {
+            int m = (l + r) / 2;
+            mergeSort(arr, l, m);
+            mergeSort(arr, m + 1, r);
+            merge(arr, l, m, r);
+        }
+    }
+
+    public void selectionSort(int[] arr) {
+        int n = arr.length;
+        for (int i = 0; i < n - 1; i++) {
+            int minIndex = i;
+            for (int j = i + 1; j < n; j++) {
+                if (arr[j] < arr[minIndex]) {
+                    minIndex = j;
+                }
+            }
+            int temp = arr[minIndex];
+            arr[minIndex] = arr[i];
+            arr[i] = temp;
+        }
     }
 }
