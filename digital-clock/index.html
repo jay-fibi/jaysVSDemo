@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Digital Clock</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
 </head>
 <body>
     <!-- Navigation Header -->
@@ -36,35 +41,38 @@
         </div>
     </div>
 
-    <!-- Main Logo -->
-    <div class="main-logo-container">
-        <div class="main-logo">
-            <div class="logo-circle">
-                <div class="clock-hands">
-                    <div class="hour-hand"></div>
-                    <div class="minute-hand"></div>
-                    <div class="second-hand"></div>
-                    <div class="center-dot"></div>
+    <!-- Main Content -->
+    <div class="main-content">
+        <!-- Main Logo -->
+        <div class="main-logo-container">
+            <div class="main-logo">
+                <div class="logo-circle">
+                    <div class="clock-hands">
+                        <div class="hour-hand"></div>
+                        <div class="minute-hand"></div>
+                        <div class="second-hand"></div>
+                        <div class="center-dot"></div>
+                    </div>
+                    <div class="hour-markers">
+                        <div class="marker marker-12"></div>
+                        <div class="marker marker-3"></div>
+                        <div class="marker marker-6"></div>
+                        <div class="marker marker-9"></div>
+                    </div>
                 </div>
-                <div class="hour-markers">
-                    <div class="marker marker-12"></div>
-                    <div class="marker marker-3"></div>
-                    <div class="marker marker-6"></div>
-                    <div class="marker marker-9"></div>
+                <div class="logo-text-main">
+                    <h1 class="brand-name">TimeCast</h1>
+                    <p class="brand-tagline">Experience Time Beautifully</p>
                 </div>
-            </div>
-            <div class="logo-text-main">
-                <h1 class="brand-name">TimeCast</h1>
-                <p class="brand-tagline">Experience Time Beautifully</p>
             </div>
         </div>
-    </div>
 
-    <div class="container">
-        <div class="clock-wrapper">
-            <div class="digital-clock">
-                <div class="time" id="time">00:00:00</div>
-                <div class="date" id="date">Monday, January 1, 2024</div>
+        <div class="container">
+            <div class="clock-wrapper">
+                <div class="digital-clock">
+                    <div class="time" id="time">00:00:00</div>
+                    <div class="date" id="date">Monday, January 1, 2024</div>
+                </div>
             </div>
         </div>
     </div>
