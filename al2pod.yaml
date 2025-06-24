@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: al2pod
+  labels:
+  app: al2
+  spec:
+  containers:
+  - name: al2
+  image: al2
+  ports: 80

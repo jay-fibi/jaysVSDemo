@@ -20,3 +20,10 @@ public static String greet(String name) {
 public static String greet(String name) {
     return "Hello, " + name + "!";
 }
+
+def test_division():
+    with patch('builtins.input', side_effect=['4', '8', '2', 'no']):
+        with patch('builtins.print') as mock_print:
+            calculator()
+            mock_print.assert_called_with("8.0 / 2.0 = 4.0")
+hello

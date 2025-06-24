@@ -10,8 +10,17 @@ def bubbleSort(arr):
                 arr = [64, 34, 25, 12, 22, 11, 90]
 
 def insertionSort(arreyinh):
+    """
+    Sorts a list in ascending order using the insertion sort algorithm.
 
-    for i in range(1, len(arreyinh))
+    Parameters:
+    arreyinh (list): The list of elements to be sorted.
+
+    Returns:
+    None: The list is sorted in place.
+    """
+
+    for i in range(1, len(arreyinh)):
         key = arreyinh[i]
         j = i-1
         while j >= 0 and key < arreyinh[j]:

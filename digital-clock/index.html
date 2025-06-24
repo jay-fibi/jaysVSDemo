@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Clock</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation Header -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <span class="logo-icon">🕐</span>
+                <span class="logo-text">TimeCast</span>
+            </div>
+            <ul class="nav-menu">
+                <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">Settings</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">Themes</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">About</a></li>
+            </ul>
+            <div class="nav-toggle" id="mobile-menu">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Auth Panel -->
+    <div class="auth-panel">
+        <div class="auth-buttons">
+            <button class="auth-btn" id="loginBtn">Login</button>
+            <button class="auth-btn" id="signupBtn">Sign Up</button>
+        </div>
+    </div>
+
+    <!-- Main Logo -->
+    <div class="main-logo-container">
+        <div class="main-logo">
+            <div class="logo-circle">
+                <div class="clock-hands">
+                    <div class="hour-hand"></div>
+                    <div class="minute-hand"></div>
+                    <div class="second-hand"></div>
+                    <div class="center-dot"></div>
+                </div>
+                <div class="hour-markers">
+                    <div class="marker marker-12"></div>
+                    <div class="marker marker-3"></div>
+                    <div class="marker marker-6"></div>
+                    <div class="marker marker-9"></div>
+                </div>
+            </div>
+            <div class="logo-text-main">
+                <h1 class="brand-name">TimeCast</h1>
+                <p class="brand-tagline">Experience Time Beautifully</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="clock-wrapper">
+            <div class="digital-clock">
+                <div class="time" id="time">00:00:00</div>
+                <div class="date" id="date">Monday, January 1, 2024</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Login Modal -->
+    <div class="modal" id="loginModal">
+        <div class="modal-content">
+            <span class="close" id="loginClose">&times;</span>
+            <h2>Login</h2>
+            <form class="auth-form" id="loginForm">
+                <div class="input-group">
+                    <input type="text" id="loginUsername" required>
+                    <label for="loginUsername">Username</label>
+                </div>
+                <div class="input-group">
+                    <input type="email" id="loginEmail" required>
+                    <label for="loginEmail">Email</label>
+                </div>
+                <div class="input-group">
+                    <input type="password" id="loginPassword" required>
+                    <label for="loginPassword">Password</label>
+                </div>
+                <div class="form-options">
+                    <label class="checkbox-container">
+                        <input type="checkbox" id="rememberMe">
+                        <span class="checkmark"></span>
+                        Remember me
+                    </label>
+                    <a href="#" class="forgot-password">Forgot Password?</a>
+                </div>
+                <button type="submit" class="submit-btn">Login</button>
+                <p class="switch-form">Don't have an account? <a href="#" id="switchToSignup">Sign up</a></p>
+            </form>
+        </div>
+    </div>
+
+    <!-- Signup Modal -->
+    <div class="modal" id="signupModal">
+        <div class="modal-content">
+            <span class="close" id="signupClose">&times;</span>
+            <h2>Sign Up</h2>
+            <form class="auth-form" id="signupForm">
+                <div class="input-group">
+                    <input type="text" id="signupName" required>
+                    <label for="signupName">Full Name</label>
+                </div>
+                <div class="input-group">
+                    <input type="email" id="signupEmail" required>
+                    <label for="signupEmail">Email</label>
+                </div>
+                <div class="input-group">
+                    <input type="password" id="signupPassword" required>
+                    <label for="signupPassword">Password</label>
+                </div>
+                <div class="input-group">
+                    <input type="password" id="confirmPassword" required>
+                    <label for="confirmPassword">Confirm Password</label>
+                </div>
+                <button type="submit" class="submit-btn">Sign Up</button>
+                <p class="switch-form">Already have an account? <a href="#" id="switchToLogin">Login</a></p>
+            </form>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-content">
+                <!-- Brand Section -->
+                <div class="footer-section">
+                    <div class="footer-logo">
+                        <span class="footer-logo-icon">🕐</span>
+                        <span class="footer-logo-text">TimeCast</span>
+                    </div>
+                    <p class="footer-description">
+                        Experience time like never before with our beautiful digital clock featuring stunning animations and modern design.
+                    </p>
+                    <div class="social-links">
+                        <a href="#" class="social-link"><i class="fab fa-facebook-f">📘</i></a>
+                        <a href="#" class="social-link"><i class="fab fa-twitter">🐦</i></a>
+                        <a href="#" class="social-link"><i class="fab fa-instagram">📷</i></a>
+                        <a href="#" class="social-link"><i class="fab fa-linkedin">💼</i></a>
+                    </div>
+                </div>
+
+                <!-- Quick Links -->
+                <div class="footer-section">
+                    <h3 class="footer-title">Quick Links</h3>
+                    <ul class="footer-links">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Features</a></li>
+                        <li><a href="#">Premium</a></li>
+                        <li><a href="#">Download</a></li>
+                    </ul>
+                </div>
+
+                <!-- Resources -->
+                <div class="footer-section">
+                    <h3 class="footer-title">Resources</h3>
+                    <ul class="footer-links">
+                        <li><a href="#">Documentation</a></li>
+                        <li><a href="#">API Reference</a></li>
+                        <li><a href="#">Support Center</a></li>
+                        <li><a href="#">Community</a></li>
+                    </ul>
+                </div>
+
+                <!-- Company -->
+                <div class="footer-section">
+                    <h3 class="footer-title">Company</h3>
+                    <ul class="footer-links">
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Careers</a></li>
+                        <li><a href="#">Press Kit</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </div>
+
+                <!-- Newsletter -->
+                <div class="footer-section">
+                    <h3 class="footer-title">Stay Updated</h3>
+                    <p class="newsletter-description">Subscribe to get the latest updates and features.</p>
+                    <form class="newsletter-form" id="newsletterForm">
+                        <input type="email" placeholder="Enter your email" class="newsletter-input" required>
+                        <button type="submit" class="newsletter-btn">Subscribe</button>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Footer Bottom -->
+            <div class="footer-bottom">
+                <div class="footer-bottom-content">
+                    <p class="copyright">
+                        © 2024 TimeCast. All rights reserved.
+                    </p>
+                    <div class="footer-bottom-links">
+                        <a href="#">Privacy Policy</a>
+                        <a href="#">Terms of Service</a>
+                        <a href="#">Cookie Policy</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
