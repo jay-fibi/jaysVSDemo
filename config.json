@@ -1,0 +1,25 @@
+{
+    "appName": "Sample Application",
+    "version": "1.0.0",
+    "description": "A sample project created by Cline",
+    "author": "Cline",
+    "settings": {
+        "debug": true,
+        "theme": "light",
+        "language": "en",
+        "maxRetries": 3,
+        "timeout": 5000
+    },
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "name": "sample_db"
+    },
+    "features": {
+        "notifications": true,
+        "analytics": false,
+        "darkMode": true
+    },
+    "createdAt": "2025-01-12",
+    "environment": "development"
+}
